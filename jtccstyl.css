@@ -1,0 +1,89 @@
+/* ======== navbar ======== */
+
+.nav-link {
+  font-weight: 400;
+}
+
+.navbar-brand {
+    background-image: url("https://arbazmotorsport.pl/static/banner.png") !important;
+    background-size: auto 100%;
+    margin-right: 15px;
+    background-repeat: no-repeat;
+    color: transparent !important;
+    width: 87px;
+    filter: grayscale(1) brightness(1.6);
+    transition: 0.3s;
+}
+
+.navbar-brand:hover {
+    filter: grayscale(0) brightness(1);
+}
+
+.navbar.bg-primary, .border-primary {
+  border-color: #57FFD7;
+  border-left-color: black;
+  border-right-color: black;
+  background-color: black !important;
+}
+
+/* ======== dropdown ======== */
+
+.dropdown-menu {
+  background-color: black !important;
+  border-radius: 0px;
+  padding: 0;
+}
+
+.dropdown-item {
+  color: white;
+  font-weight: 700;
+  background: black;
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
+
+.dropdown-item:hover {
+  background: linear-gradient(200deg, #21FAFA 0%, #01FFCC 100%);
+  color: black;
+}
+
+.dropdown-divider {
+  margin: 0;
+}
+
+.dropdown-header {
+  padding-left: 6px;
+}
+
+/* ======== kolory ======== */
+
+.text-primary, a:not(.btn):not(.nav-link):not(.navbar-brand):not(.dropdown-item):not(.text-white):not(.text-danger):not(.fc-event):not(.page-link) {
+  border-color: #3DB296;
+}
+
+.bg-primary, .btn-primary, .badge-primary {
+  border-color: #3DB296;
+  background-color: #57FFD7 !important;
+  color: black !important;
+}
+
+#event-title:hover {
+  color: #00F0FF !important;
+}
+
+a {
+color: #21FAFA;
+}
+
+a.card h3 {
+  font-size: 1.4rem;
+}
+
+body {
+  background-color: black;
+  font-family: "Open Sans",-apple-system,BlinkMacSystemFont,Roboto,"Helvetica Neue",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+}
+
+.tooltip {
+  font-family: "Open Sans",-apple-system,BlinkMacSystemFont,Roboto,"Helvetica Neue",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+}

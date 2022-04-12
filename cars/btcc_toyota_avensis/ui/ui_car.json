@@ -1,0 +1,154 @@
+{
+  "name": "Toyota Avensis",
+  "brand": "BTCC",
+  "description": "Since the 2014 season onwards all cars are built to the same NGTC regulations. First introduced in 2011 for an initial 5 year period, these technical regulations are designed to dramatically reduce the design, build and running costs of the cars and engines. Only NGTC cars are now eligible to compete in the BTCC. TOCA extended these regulation for a further 6 years from 2016.<br><br>NGTC allows independent teams to compete on a level playing field against manufacturer-backed efforts by keeping costs down whilst at the same time rewarding precise engineering and all-important split-second strategy.<br><br>The foundation for NGTC is an emphasis on some common components, so turbo, wastegate, intercoolers, ECU, instrumentation and dash, power management system, six-speed sequential gearbox, fuel tanks, differential, subframe, steering, brakes, clutch, wheels, dampers and suspension, which dramatically drives down costs for teams looking to compete in one of the world&#39;s most attractive motor sport arenas.<br><br>2016 sees the introduction of a new Technical Partner for the common subframes, suspension and new hydraulic power steering whilst all other Technical Partners were keen to continue their association with the BTCC.<br><br>Teams have the option of running either TOCA&#39;s unbranded NGTC-spec engine or, whether privateer or full manufacturer-backed entries, developing their own powerplant to the regulations, as long as it is from the same &#39;family&#39; as their chosen model of car. <br>All are 340+bhp 2-litre turbo-charged engines.<br><br>An overview of the Technical Specifications are below:<br><br>Engine: <br><br>340+bhp 2-litre turbo-charged direct-injection engine with &#39;fly by wire&#39; throttle control<br>Low cost to develop, build, buy and maintain, either by teams and/or race engine-builders developing their own, or through lease/purchase of the TOCA-BTCC Swindon prepared engine<br>Engine can be sourced from a manufacturer&#39;s broad &#39;family&#39; range, including subsidiary marques under their effective control<br>Common Owen Developments turbo charger and PWR intercolerto be used by all cars<br><br>Drivetrain:<br><br>Xtrac 6 speed sequential-shift gearbox and differential.<br>AP Racing carbon clutch Drive-train layout (i.e. front or rear wheel drive) as per base vehicle.<br>4WD base car keep engine orientation as production which defines driven wheels.<br><br>Suspension:<br><br>RML designed full front sub-frame incorporating suspension, brakes, transmission and engine location that attaches to specified roll cage locations.<br>Multi-adjustable double wishbone suspension with SPA Penske coil-over dampers.<br>RML designed rear sub-frame that attaches to specified roll cage locations.<br>Multi-adjustable double wishbone suspension with SPA Penske coil-over dampers.<br>Hydraulic Power Steering.<br><br>Bodyshell:<br><br>2, 3, 4 or 5 door of a minimum 4.4m length (2 or 3 door cars must share the same basic body profile as the 4/5 door model).<br>Equalised width of 1890mm.<br>Specified front aerodynamic device incorporating flat floor, apertures for radiator, brake cooling ducts, intercooler and side exits.<br>Specified rear wing profile.<br>Stylised front &amp; rear wheel-arch extensions.<br>Increased driver protection.<br>Latest specification FIA Homologated seat.<br>Side exhaust permitted.<br>80 litre ATL fuel tank.<br>Lifeline fire extinguisher system.<br>Base vehicle must be freely on sale in the UK through the manufacturer&#39;s normal dealer network at time of homologation.<br>Equal base vehicle weights, for front and rear-wheel drive max 1280 kilos.<br><br>Wheels/Tyres:<br><br>Specified Rimstock 18-inch centre-lock wheel.<br>Dunlop: 245 x 650 x R18.<br>Three tyre compounds (Soft, Hard and a specific compound used at Thruxton only).<br><br>Brakes:<br><br>AP Racing specified package.<br>AP Racing specified pedal-box.<br><br>Electronics:<br><br>Cosworth Electronics specified package incorporating ECU, dash, data-logging and scrutineering logger.<br>Data channels limited to 16.<br>Common power management box and switch panels.<br>Common Cosworth wiring loom design.<br>Judicial camera system to be run by all cars.<br><br>Fuel:<br><br>Carless supplied petrol.",
+  "tags": [
+    "fwd",
+    "sequential",
+    "race",
+    "btcc",
+    "touring"
+  ],
+  "class": "race",
+  "specs": {
+    "bhp": "350 bhp",
+    "torque": "420 Nm*",
+    "weight": "1205 kg",
+    "topspeed": "250+km/h",
+    "acceleration": "4s 0-100",
+    "pwratio": "3.44 kg/hp"
+  },
+  "torqueCurve": [
+    [
+      0.0,
+      0.0
+    ],
+    [
+      500.0,
+      55.0
+    ],
+    [
+      1000.0,
+      209.0
+    ],
+    [
+      1500.0,
+      275.0
+    ],
+    [
+      2000.0,
+      306.0
+    ],
+    [
+      3000.0,
+      357.0
+    ],
+    [
+      3500.0,
+      372.0
+    ],
+    [
+      4000.0,
+      384.0
+    ],
+    [
+      4500.0,
+      396.0
+    ],
+    [
+      5000.0,
+      399.0
+    ],
+    [
+      5500.0,
+      400.0
+    ],
+    [
+      6000.0,
+      385.0
+    ],
+    [
+      6500.0,
+      367.0
+    ],
+    [
+      7000.0,
+      350.0
+    ],
+    [
+      7500.0,
+      324.0
+    ]
+  ],
+  "powerCurve": [
+    [
+      0.0,
+      10.0
+    ],
+    [
+      500.0,
+      45.0
+    ],
+    [
+      1000.0,
+      75.0
+    ],
+    [
+      1500.0,
+      100.0
+    ],
+    [
+      2000.0,
+      130.0
+    ],
+    [
+      2500.0,
+      160.0
+    ],
+    [
+      3000.0,
+      185.0
+    ],
+    [
+      3500.0,
+      215.0
+    ],
+    [
+      4000.0,
+      245.0
+    ],
+    [
+      4500.0,
+      275.0
+    ],
+    [
+      5000.0,
+      305.0
+    ],
+    [
+      5500.0,
+      325.0
+    ],
+    [
+      6000.0,
+      335.0
+    ],
+    [
+      6500.0,
+      340.0
+    ],
+    [
+      7000.0,
+      330.0
+    ],
+    [
+      7500.0,
+      310.0
+    ]
+  ],
+  "country": "Japan",
+  "year": 2018,
+  "author": "Shaun Clarke",
+  "version": "V2.0",
+  "url": null
+}

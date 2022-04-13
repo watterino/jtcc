@@ -1,0 +1,169 @@
+{
+   "downloadURL": "https://www.racedepartment.com/downloads/sachsenring.41511/download",
+   "notes": "",
+   "checksums": [
+      {
+         "filepath": "content/tracks/g333_sachsenring/AC.kn5",
+         "layout": "",
+         "checksum": "c4ac3e46a249f09371894b55b45f53ed"
+      },
+      {
+         "filepath": "content/tracks/g333_sachsenring/AC_SHORT.kn5",
+         "layout": "",
+         "checksum": "00c54e45d71f964ebbb4b6701151df36"
+      },
+      {
+         "filepath": "content/tracks/g333_sachsenring/airliner.kn5",
+         "layout": "",
+         "checksum": "d47605d7889418585e010a123f19c16a"
+      },
+      {
+         "filepath": "content/tracks/g333_sachsenring/Bell407.kn5",
+         "layout": "",
+         "checksum": "bb728590f6461b2db624f62e21fa441e"
+      },
+      {
+         "filepath": "content/tracks/g333_sachsenring/Bell407new.kn5",
+         "layout": "",
+         "checksum": "a29601ce7ed781cde80501c3db8216c5"
+      },
+      {
+         "filepath": "content/tracks/g333_sachsenring/CamGuyAni01.kn5",
+         "layout": "",
+         "checksum": "afcef0f487ffa2bce3110a774150947b"
+      },
+      {
+         "filepath": "content/tracks/g333_sachsenring/CamGuyAni02.kn5",
+         "layout": "",
+         "checksum": "4b79ad8940cd15f08341995f27dfa03a"
+      },
+      {
+         "filepath": "content/tracks/g333_sachsenring/CamJib01.kn5",
+         "layout": "",
+         "checksum": "2fa144afd89a0dfce0b7f6b48b0d482b"
+      },
+      {
+         "filepath": "content/tracks/g333_sachsenring/event.kn5",
+         "layout": "",
+         "checksum": "de0132eb2cb66d16f80a8024447df638"
+      },
+      {
+         "filepath": "content/tracks/g333_sachsenring/flying_geese.kn5",
+         "layout": "",
+         "checksum": "1af5ccd469e0efb8b7d3d3c6cea46521"
+      },
+      {
+         "filepath": "content/tracks/g333_sachsenring/g333_sachsenring.kn5",
+         "layout": "",
+         "checksum": "292f9b4da996538ade8f444f8f872b41"
+      },
+      {
+         "filepath": "content/tracks/g333_sachsenring/GarageDoors.kn5",
+         "layout": "",
+         "checksum": "d178f5b28787f1c6c56a112e1a0d0a73"
+      },
+      {
+         "filepath": "content/tracks/g333_sachsenring/GarageDoorsClosed.kn5",
+         "layout": "",
+         "checksum": "aed848d2c575e754cdbfe6c30b43d5fd"
+      },
+      {
+         "filepath": "content/tracks/g333_sachsenring/GarageDoorsOpen.kn5",
+         "layout": "",
+         "checksum": "8a9a0660f2378f0953947922a6e1d4a0"
+      },
+      {
+         "filepath": "content/tracks/g333_sachsenring/H135.kn5",
+         "layout": "",
+         "checksum": "39d07416097695221dc09c7d6b69820a"
+      },
+      {
+         "filepath": "content/tracks/g333_sachsenring/InfTubeGuy.kn5",
+         "layout": "",
+         "checksum": "bb2e8b93709d6efe91663e2587cb0fb9"
+      },
+      {
+         "filepath": "content/tracks/g333_sachsenring/MarshallCap_01.kn5",
+         "layout": "",
+         "checksum": "f26dc9d539170e2e85a5bed8469b5a24"
+      },
+      {
+         "filepath": "content/tracks/g333_sachsenring/MarshallHP_01.kn5",
+         "layout": "",
+         "checksum": "2565b072f9e4fc5e54e5ebfb7aec1354"
+      },
+      {
+         "filepath": "content/tracks/g333_sachsenring/MarshallHP_02.kn5",
+         "layout": "",
+         "checksum": "6d6ae66c98faff1a54ec68a2c951ab3a"
+      },
+      {
+         "filepath": "content/tracks/g333_sachsenring/MarshallWTT_01.kn5",
+         "layout": "",
+         "checksum": "8ab658b4056e72826e212da2e793730a"
+      },
+      {
+         "filepath": "content/tracks/g333_sachsenring/roadmesh.kn5",
+         "layout": "",
+         "checksum": "603a2e0aee70700f71d9222ea959e0d5"
+      },
+      {
+         "filepath": "content/tracks/g333_sachsenring/roadmesh_flat.kn5",
+         "layout": "",
+         "checksum": "3ba3fcaa8d8194a9d8c9ff4938eb32e7"
+      },
+      {
+         "filepath": "content/tracks/g333_sachsenring/skoda_01.kn5",
+         "layout": "",
+         "checksum": "8dca6262b9e38bc5c66dfc834d104bfd"
+      },
+      {
+         "filepath": "content/tracks/g333_sachsenring/skoda_02.kn5",
+         "layout": "",
+         "checksum": "b8882b34df526221a8a7a99d989881aa"
+      },
+      {
+         "filepath": "content/tracks/g333_sachsenring/soundmute.kn5",
+         "layout": "",
+         "checksum": "44bdb3d0780cf6ab40f8b4a4a1cea595"
+      },
+      {
+         "filepath": "content/tracks/g333_sachsenring/trackday.kn5",
+         "layout": "",
+         "checksum": "63a7113fee4b50eb87db059e72b735b4"
+      },
+      {
+         "filepath": "content/tracks/g333_sachsenring/trackday_short.kn5",
+         "layout": "",
+         "checksum": "1ac7c248bd1275920139d0f01eaea732"
+      },
+      {
+         "filepath": "content/tracks/g333_sachsenring/trees.kn5",
+         "layout": "",
+         "checksum": "7a6eac86903112eb07e45db83979573d"
+      },
+      {
+         "filepath": "content/tracks/g333_sachsenring/TVCamAni01.kn5",
+         "layout": "",
+         "checksum": "6ac5a4ee42c53380794000d11efb3d97"
+      },
+      {
+         "filepath": "content/tracks/g333_sachsenring/TVCamAni02.kn5",
+         "layout": "",
+         "checksum": "5e3b7ae41507bfd1bfcbbdae51668b53"
+      },
+      {
+         "filepath": "content/tracks/g333_sachsenring/walls.kn5",
+         "layout": "",
+         "checksum": "4c48bc0c270ea943b12aa50603b537ff"
+      }
+   ],
+   "layouts": {
+      "event": {
+         "splineCalculationDistance": 3,
+         "splineCalculationMaxSpeed": 50,
+         "splineCalculationMaxDistance": 4,
+         "SectorPositions": null
+      }
+   }
+}

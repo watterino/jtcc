@@ -1,0 +1,39 @@
+{
+   "downloadURL": "https://www.racedepartment.com/downloads/norisring-2009.27646/download",
+   "notes": "",
+   "checksums": [
+      {
+         "filepath": "content/tracks/norisring/AC.kn5",
+         "layout": "",
+         "checksum": "6311e8cbe6acbc55bef2aaacfc836369"
+      },
+      {
+         "filepath": "content/tracks/norisring/groove.kn5",
+         "layout": "",
+         "checksum": "af17207ae2e78fba13514fea5ec29de0"
+      },
+      {
+         "filepath": "content/tracks/norisring/norisring.kn5",
+         "layout": "",
+         "checksum": "e480497ee4df37277f3e7a748ac28cd4"
+      },
+      {
+         "filepath": "content/tracks/norisring/norisring_RDMesh.kn5",
+         "layout": "",
+         "checksum": "36576ec51cf9fde8a0172d73822d9f37"
+      },
+      {
+         "filepath": "content/tracks/norisring/roadmarks.kn5",
+         "layout": "",
+         "checksum": "974fc47c60c1a06600cf2bfc97012be9"
+      }
+   ],
+   "layouts": {
+      "": {
+         "splineCalculationDistance": 3,
+         "splineCalculationMaxSpeed": 40,
+         "splineCalculationMaxDistance": 4,
+         "SectorPositions": null
+      }
+   }
+}

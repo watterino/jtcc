@@ -1,0 +1,24 @@
+{
+  "name": "Lausitzring GP Multiplayer",
+  "description": "Lausitz Ring GP Multiplayer layout - pitlane entry fix",
+  "tags": [
+    "circuit",
+    "original",
+    "Germany",
+    "GP"
+  ],
+  "country": "Germany",
+  "city": "Klettwitz",
+  "length": "4445 m",
+  "width": "12-14",
+  "pitboxes": "42",
+  "run": "coutnerclockwise",
+  "author": "TM-Modding",
+  "url": "https://tm-modding.eu/",
+  "version": "1.51",
+  "year": 2018,
+  "geotags": [
+    "51° 32′ 25″ N",
+    "13° 54′ 46″ E"
+  ]
+}

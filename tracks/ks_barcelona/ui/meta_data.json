@@ -1,0 +1,79 @@
+{
+   "downloadURL": "",
+   "notes": "",
+   "checksums": [
+      {
+         "filepath": "content/tracks/ks_barcelona/1.kn5",
+         "layout": "",
+         "checksum": "88ea1dc065604317ba8d67004affe54f"
+      },
+      {
+         "filepath": "content/tracks/ks_barcelona/100.kn5",
+         "layout": "",
+         "checksum": "462fe73ee99284995b2e92ad099b1549"
+      },
+      {
+         "filepath": "content/tracks/ks_barcelona/11.kn5",
+         "layout": "",
+         "checksum": "7f1090c2885705377c56b165baad169c"
+      },
+      {
+         "filepath": "content/tracks/ks_barcelona/12.kn5",
+         "layout": "",
+         "checksum": "2cb709476272f2cc1d803d6b821f9b9a"
+      },
+      {
+         "filepath": "content/tracks/ks_barcelona/2.kn5",
+         "layout": "",
+         "checksum": "45bb1ab7b076b8eadc2902d74ae30bed"
+      },
+      {
+         "filepath": "content/tracks/ks_barcelona/3.kn5",
+         "layout": "",
+         "checksum": "d94cb90407d3ed271e970bfb053b8bdc"
+      },
+      {
+         "filepath": "content/tracks/ks_barcelona/4.kn5",
+         "layout": "",
+         "checksum": "9503310593fe5f9867503128a37cc386"
+      },
+      {
+         "filepath": "content/tracks/ks_barcelona/5.kn5",
+         "layout": "",
+         "checksum": "7857a5efe8733ffd99937a2d037c0817"
+      },
+      {
+         "filepath": "content/tracks/ks_barcelona/6.kn5",
+         "layout": "",
+         "checksum": "49da03f4b869d3eef73b988c040716cf"
+      },
+      {
+         "filepath": "content/tracks/ks_barcelona/7.kn5",
+         "layout": "",
+         "checksum": "dd2a6aaa3498008cee01193f8ce069bf"
+      },
+      {
+         "filepath": "content/tracks/ks_barcelona/8.kn5",
+         "layout": "",
+         "checksum": "7a1c1040674a0dee690304c282003d5f"
+      },
+      {
+         "filepath": "content/tracks/ks_barcelona/9.kn5",
+         "layout": "",
+         "checksum": "3fc58e74b3c8998d702e2557fdaa0a9e"
+      },
+      {
+         "filepath": "content/tracks/ks_barcelona/ks_barcelona.kn5",
+         "layout": "",
+         "checksum": "251bc5999d5ac544cefa7b5c0bad787d"
+      }
+   ],
+   "layouts": {
+      "layout_gp": {
+         "splineCalculationDistance": 1,
+         "splineCalculationMaxSpeed": 40,
+         "splineCalculationMaxDistance": 6,
+         "SectorPositions": null
+      }
+   }
+}

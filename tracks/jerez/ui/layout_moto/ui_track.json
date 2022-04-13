@@ -1,0 +1,12 @@
+{
+	"name": "Jerez Moto",
+	"description": "Circuito de velocidad",
+	"tags" : ["drift","circuit","Spain"],
+	"geotags": ["lat", "lon"],
+	"country": "Spain",
+	"city": "Jerez",
+	"length": "4423m",
+	"width": "11m-12m",
+	"pitboxes": "35",
+	"run": "clockwise"
+}

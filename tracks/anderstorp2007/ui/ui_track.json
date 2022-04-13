@@ -1,0 +1,21 @@
+{
+  "name": "Anderstorp 2007",
+  "description": "Anderstorp Raceway",
+  "tags": [
+    "circuit"
+  ],
+  "country": "Sweden",
+  "city": "Anderstorp",
+  "length": "4.025 m",
+  "width": "m",
+  "pitboxes": "22",
+  "run": "clockwise",
+  "author": null,
+  "version": null,
+  "url": null,
+  "year": 2007,
+  "geotags": [
+    "57.2813° N",
+    "13.6272° E"
+  ]
+}

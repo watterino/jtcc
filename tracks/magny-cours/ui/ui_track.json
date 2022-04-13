@@ -1,0 +1,21 @@
+{
+  "name": "Magny-Cours",
+  "description": "Circuit de Nevers Magny-Cours",
+  "tags": [
+    "circuit"
+  ],
+  "country": "France",
+  "city": "Magny-Cours",
+  "length": "4.412 m",
+  "width": "m",
+  "pitboxes": "22",
+  "run": "clockwise",
+  "author": "Rainmaker",
+  "version": null,
+  "url": "http://www.mediafire.com/file/o2ibmz5j699qw1o/Magny-Cours+v1.32.7z",
+  "geotags": [
+    "46.8629° N",
+    "3.1642° E"
+  ],
+  "year": 2011
+}

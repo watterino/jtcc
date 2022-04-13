@@ -1,0 +1,22 @@
+{
+  "name": "Bugatti Circuit Le Mans",
+  "description": "2019",
+  "tags": [
+    "circuit",
+    "le mans",
+    "bugatti"
+  ],
+  "geotags": [
+    "48° 00′ 30″ N",
+    "0° 12′ 50″ E"
+  ],
+  "country": "France",
+  "city": "Le Mans",
+  "length": "4185",
+  "width": "14",
+  "pitboxes": "56",
+  "run": "clockwise",
+  "author": null,
+  "version": "1.0",
+  "url": null
+}

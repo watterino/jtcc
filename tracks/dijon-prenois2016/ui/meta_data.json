@@ -1,0 +1,69 @@
+{
+   "downloadURL": "http://www.mediafire.com/file/dcjkjactklhq2di/Dijon-Prenois_2016_v1.3_by_Rainmaker.7z/file",
+   "notes": "",
+   "checksums": [
+      {
+         "filepath": "content/tracks/dijon-prenois2016/AC.kn5",
+         "layout": "",
+         "checksum": "c20717e788574d26899403d273a68fef"
+      },
+      {
+         "filepath": "content/tracks/dijon-prenois2016/crowd.kn5",
+         "layout": "",
+         "checksum": "90cc2080eb102deced3a5a4684753e0d"
+      },
+      {
+         "filepath": "content/tracks/dijon-prenois2016/crowds.kn5",
+         "layout": "",
+         "checksum": "7af4e678273d54469d05117b23175f47"
+      },
+      {
+         "filepath": "content/tracks/dijon-prenois2016/dijon-prenois2016.kn5",
+         "layout": "",
+         "checksum": "ce89c76a9a99055962a8a3dea53d1298"
+      },
+      {
+         "filepath": "content/tracks/dijon-prenois2016/gp_block.kn5",
+         "layout": "",
+         "checksum": "4941ee59ca06833206eb8d06156d5387"
+      },
+      {
+         "filepath": "content/tracks/dijon-prenois2016/groove.kn5",
+         "layout": "",
+         "checksum": "7caa3144e3439ba8f27ec15d7806972d"
+      },
+      {
+         "filepath": "content/tracks/dijon-prenois2016/groove_short.kn5",
+         "layout": "",
+         "checksum": "44f5103afeab7ff8349ad7b5281ba1d3"
+      },
+      {
+         "filepath": "content/tracks/dijon-prenois2016/scenery.kn5",
+         "layout": "",
+         "checksum": "3c17a0b13659dc7f3db119ffca71976f"
+      },
+      {
+         "filepath": "content/tracks/dijon-prenois2016/short_block.kn5",
+         "layout": "",
+         "checksum": "85967a8cbd849f5baee5ef27aa6deef2"
+      },
+      {
+         "filepath": "content/tracks/dijon-prenois2016/trees.kn5",
+         "layout": "",
+         "checksum": "b5562ee59f016c500c879523e4183642"
+      },
+      {
+         "filepath": "content/tracks/dijon-prenois2016/treesnew.kn5",
+         "layout": "",
+         "checksum": "219c94a37350d4d63f7913246860e2e9"
+      }
+   ],
+   "layouts": {
+      "gp": {
+         "splineCalculationDistance": 3,
+         "splineCalculationMaxSpeed": 60,
+         "splineCalculationMaxDistance": 4,
+         "SectorPositions": null
+      }
+   }
+}

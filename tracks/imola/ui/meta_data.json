@@ -1,0 +1,27 @@
+{
+   "downloadURL": "",
+   "notes": "",
+   "checksums": [
+      {
+         "filepath": "content/tracks/imola/1.kn5",
+         "layout": "",
+         "checksum": "ec929edab725a26b6e1f2976972fdfc9"
+      },
+      {
+         "filepath": "content/tracks/imola/100.kn5",
+         "layout": "",
+         "checksum": "7e825ca21ba5784dffc34226e3bc91d7"
+      },
+      {
+         "filepath": "content/tracks/imola/2.kn5",
+         "layout": "",
+         "checksum": "54db502ed841947c12afe1914af0a27a"
+      },
+      {
+         "filepath": "content/tracks/imola/imola.kn5",
+         "layout": "",
+         "checksum": "0199ee2ea2005cc47e93d757b37f5268"
+      }
+   ],
+   "layouts": {}
+}

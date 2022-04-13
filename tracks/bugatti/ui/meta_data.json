@@ -1,0 +1,24 @@
+{
+   "downloadURL": "https://mega.nz/file/ZF5EhLrb#4InMCqktLZy_igWIKbDJ4kmeOLRsi7ShujX6StLt-Pk",
+   "notes": "",
+   "checksums": [
+      {
+         "filepath": "content/tracks/bugatti/bugatti.kn5",
+         "layout": "",
+         "checksum": "dd2d25836f1123996323350fe62b8986"
+      },
+      {
+         "filepath": "content/tracks/bugatti/bugatti_road.kn5",
+         "layout": "",
+         "checksum": "43d1622af5127d038eae4cef6b6783ee"
+      }
+   ],
+   "layouts": {
+      "": {
+         "splineCalculationDistance": 4,
+         "splineCalculationMaxSpeed": 90,
+         "splineCalculationMaxDistance": 5000,
+         "SectorPositions": null
+      }
+   }
+}

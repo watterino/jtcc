@@ -1,0 +1,23 @@
+{
+  "name": "Norisring",
+  "description": "2009 Layout",
+  "tags": [
+    "circuit",
+    "Germany",
+    "DTM"
+  ],
+  "geotags": [
+    "49.443 N",
+    "11.12 E"
+  ],
+  "country": "Germany",
+  "city": "Nuernberg",
+  "length": "2.170 m",
+  "width": "15-20 m",
+  "pitboxes": "36",
+  "run": "anti-clockwise",
+  "author": "gunnar333, com8, SandroX, Rainmaker",
+  "version": "3.23",
+  "url": "https://www.racedepartment.com/downloads/norisring-2009-v3-0.27646/",
+  "year": 2009
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Sachsenring Trackday Short",
+  "description": "2020 Layout",
+  "tags": [
+    "circuit",
+    "Germany"
+  ],
+  "geotags": [
+    "50.791 N",
+    "12.688 E"
+  ],
+  "country": "Germany",
+  "city": "Hohenstein",
+  "length": "1.520 m",
+  "width": "12-15 m",
+  "pitboxes": "32",
+  "run": "anti-clockwise",
+  "author": "gunnar333",
+  "version": "1.03",
+  "url": "https://www.racedepartment.com/downloads/sachsenring.41511/",
+  "year": 2020
+}

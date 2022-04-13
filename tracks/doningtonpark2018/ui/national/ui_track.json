@@ -1,0 +1,12 @@
+ {
+	"name": "Donington Park 2018 National",
+	"description": "Donington Park National Circuit",
+	"tags" : ["circuit","circuit","UK"],
+	"geotags": ["lat", "lon"],
+	"country": "Great Britain",
+	"city": "Donington",
+	"length": "3.185m",
+	"width": "10m-15m",
+	"pitboxes": "24",
+	"run": "clockwise"
+}

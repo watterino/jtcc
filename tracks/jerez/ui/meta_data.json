@@ -1,0 +1,39 @@
+{
+   "downloadURL": "https://www.racedepartment.com/downloads/circuito-de-jerez.15735/download",
+   "notes": "",
+   "checksums": [
+      {
+         "filepath": "content/tracks/jerez/1.kn5",
+         "layout": "",
+         "checksum": "d0aaf087efe529ecce39c00eba62d85e"
+      },
+      {
+         "filepath": "content/tracks/jerez/2.kn5",
+         "layout": "",
+         "checksum": "e2b0185410ee194c60f8a932e5a7808d"
+      },
+      {
+         "filepath": "content/tracks/jerez/3.kn5",
+         "layout": "",
+         "checksum": "85e2baba4b18ddd9276df67231f7e9bb"
+      },
+      {
+         "filepath": "content/tracks/jerez/4.kn5",
+         "layout": "",
+         "checksum": "b462ef7afe171ef81c46513411ce9b42"
+      },
+      {
+         "filepath": "content/tracks/jerez/jerez.kn5",
+         "layout": "",
+         "checksum": "c05cd85517de90344bd686313615c209"
+      }
+   ],
+   "layouts": {
+      "layout_gp": {
+         "splineCalculationDistance": 3,
+         "splineCalculationMaxSpeed": 60,
+         "splineCalculationMaxDistance": 4,
+         "SectorPositions": null
+      }
+   }
+}

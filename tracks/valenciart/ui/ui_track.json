@@ -1,0 +1,24 @@
+{
+  "name": "Circuito de la Comunidad Valenciana Ricardo Tormo",
+  "description": "Is a motorsport race track located in Cheste (Valencia, Spain) and built in 1999. It has a capacity of 120,000 and a main straight of 876 metres. It is often used as a test track by the Formula One teams, because of the mild temperatures in winter.",
+  "tags": [
+    "Circuito de la Comunidad Valenciana Ricardo Tormo",
+    "Ricardo Tormo",
+    "circuit"
+  ],
+  "geotags": [
+    "39° 29′ 03″ N",
+    "0° 38′ 47″ W"
+  ],
+  "country": "Spain",
+  "city": "Valencia",
+  "length": "4.051 m",
+  "turns": "14",
+  "width": "12m",
+  "pitboxes": "26",
+  "run": "anticlock",
+  "author": "DA-DIGGA from simracingteam, Authorized conversion by Ema",
+  "version": "v1.0",
+  "url": null,
+  "year": 2021
+}

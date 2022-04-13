@@ -1,0 +1,21 @@
+{
+  "name": "Hockenheim - Short A",
+  "description": "Hockenheimring Baden-Württemberg",
+  "tags": [
+    "circuit",
+    "germany"
+  ],
+  "geotags": [
+    "49° 21′ 45″ N",
+    "8° 34′ 12″ E"
+  ],
+  "country": "Germany",
+  "city": "Baden-Württemberg",
+  "length": "2638",
+  "width": "8-14",
+  "pitboxes": "26",
+  "run": "clockwise",
+  "author": "VheEth, TheRealCeeBee",
+  "version": "1.3",
+  "url": null
+}

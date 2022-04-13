@@ -1,0 +1,217 @@
+{
+   "downloadURL": "https://www.racedepartment.com/downloads/slovakia-ring.8945/download",
+   "notes": "",
+   "checksums": [
+      {
+         "filepath": "content/tracks/slovakiaring/1.kn5",
+         "layout": "",
+         "checksum": "4da2dd3be45cca298332b1576f378987"
+      },
+      {
+         "filepath": "content/tracks/slovakiaring/10.kn5",
+         "layout": "",
+         "checksum": "f048893f275b90b35aaec1f0f7120264"
+      },
+      {
+         "filepath": "content/tracks/slovakiaring/12.kn5",
+         "layout": "",
+         "checksum": "2e4e1dfb20f5b6040e9a529e24a608e2"
+      },
+      {
+         "filepath": "content/tracks/slovakiaring/13.kn5",
+         "layout": "",
+         "checksum": "feb82403d8796e904a23e1d3e1bb8c7d"
+      },
+      {
+         "filepath": "content/tracks/slovakiaring/14.kn5",
+         "layout": "",
+         "checksum": "4a87608e80afc18cf13e7af2f7aae308"
+      },
+      {
+         "filepath": "content/tracks/slovakiaring/15.kn5",
+         "layout": "",
+         "checksum": "c80698d5ef04a01118841d77a7b5e031"
+      },
+      {
+         "filepath": "content/tracks/slovakiaring/16.kn5",
+         "layout": "",
+         "checksum": "fa52bbc78b9b385d8731d13538d84147"
+      },
+      {
+         "filepath": "content/tracks/slovakiaring/17.kn5",
+         "layout": "",
+         "checksum": "a4312344a3890de8598ab20c764983bb"
+      },
+      {
+         "filepath": "content/tracks/slovakiaring/18.kn5",
+         "layout": "",
+         "checksum": "240609f0f7c28393c0b3bfb19404a043"
+      },
+      {
+         "filepath": "content/tracks/slovakiaring/19.kn5",
+         "layout": "",
+         "checksum": "4da2dd3be45cca298332b1576f378987"
+      },
+      {
+         "filepath": "content/tracks/slovakiaring/2.kn5",
+         "layout": "",
+         "checksum": "1cdf7199797754165643aee40b36833f"
+      },
+      {
+         "filepath": "content/tracks/slovakiaring/20.kn5",
+         "layout": "",
+         "checksum": "29fe11f25f418a8321e4f101f19a1815"
+      },
+      {
+         "filepath": "content/tracks/slovakiaring/21.kn5",
+         "layout": "",
+         "checksum": "ab721754644a9e49be02dc07c700e44d"
+      },
+      {
+         "filepath": "content/tracks/slovakiaring/22.kn5",
+         "layout": "",
+         "checksum": "953d2957e59e3c362ccf4528e71d1aa5"
+      },
+      {
+         "filepath": "content/tracks/slovakiaring/23.kn5",
+         "layout": "",
+         "checksum": "7127605369516d28f79479a1a2f31280"
+      },
+      {
+         "filepath": "content/tracks/slovakiaring/24.kn5",
+         "layout": "",
+         "checksum": "1a8122414a5065a53f6157045ce7bea1"
+      },
+      {
+         "filepath": "content/tracks/slovakiaring/25.kn5",
+         "layout": "",
+         "checksum": "2faf44179cd0a4d423da4733d96e3450"
+      },
+      {
+         "filepath": "content/tracks/slovakiaring/26.kn5",
+         "layout": "",
+         "checksum": "e4fbe9c77ef9fd092bbef8389e113398"
+      },
+      {
+         "filepath": "content/tracks/slovakiaring/27.kn5",
+         "layout": "",
+         "checksum": "e97364ea77380f5997b7380cfa60568a"
+      },
+      {
+         "filepath": "content/tracks/slovakiaring/28.kn5",
+         "layout": "",
+         "checksum": "66880d26a5894d374e444477aabadcd8"
+      },
+      {
+         "filepath": "content/tracks/slovakiaring/29.kn5",
+         "layout": "",
+         "checksum": "39f55ebc97f93cd2d305578da28843a6"
+      },
+      {
+         "filepath": "content/tracks/slovakiaring/3.kn5",
+         "layout": "",
+         "checksum": "0e3426e85e31b306492ef8eb9d19ce97"
+      },
+      {
+         "filepath": "content/tracks/slovakiaring/30.kn5",
+         "layout": "",
+         "checksum": "68368c7add0c81e2b2f91232c1a11fe8"
+      },
+      {
+         "filepath": "content/tracks/slovakiaring/4.kn5",
+         "layout": "",
+         "checksum": "087a591059483829c5a54ee0cfad1b7e"
+      },
+      {
+         "filepath": "content/tracks/slovakiaring/5.kn5",
+         "layout": "",
+         "checksum": "e674524ca825ae2fd0f83c30149c3158"
+      },
+      {
+         "filepath": "content/tracks/slovakiaring/6.kn5",
+         "layout": "",
+         "checksum": "83bd726bf004475bc81000137a81ff4d"
+      },
+      {
+         "filepath": "content/tracks/slovakiaring/7.kn5",
+         "layout": "",
+         "checksum": "7127605369516d28f79479a1a2f31280"
+      },
+      {
+         "filepath": "content/tracks/slovakiaring/8.kn5",
+         "layout": "",
+         "checksum": "77188b78d57308ad683e8d66a4224681"
+      },
+      {
+         "filepath": "content/tracks/slovakiaring/9.kn5",
+         "layout": "",
+         "checksum": "68368c7add0c81e2b2f91232c1a11fe8"
+      },
+      {
+         "filepath": "content/tracks/slovakiaring/slovakiaring.kn5",
+         "layout": "",
+         "checksum": "f4b864854aa4bae2aa763783cf998a81"
+      },
+      {
+         "filepath": "content/tracks/slovakiaring/slovakiaring_chicane.kn5",
+         "layout": "",
+         "checksum": "9eddec543cc717b11901a9dfab3d31d2"
+      },
+      {
+         "filepath": "content/tracks/slovakiaring/slovakiaring_sprint.kn5",
+         "layout": "",
+         "checksum": "5b9c55dadad7738f2f30bc3f8836212e"
+      },
+      {
+         "filepath": "content/tracks/slovakiaring/slovakiaring_ucs.kn5",
+         "layout": "",
+         "checksum": "7c4edebe9a563b02175b4fb90d8447b0"
+      },
+      {
+         "filepath": "content/tracks/slovakiaring/zs_silesiaring/ac_crew.kn5",
+         "layout": "",
+         "checksum": "88ffb596ed6a77ebfd3f7beaff04b1f0"
+      },
+      {
+         "filepath": "content/tracks/slovakiaring/zs_silesiaring/cones_turn9.kn5",
+         "layout": "",
+         "checksum": "8a0b4aaafbe6a138397ed222cb594e2e"
+      },
+      {
+         "filepath": "content/tracks/slovakiaring/zs_silesiaring/drzewka.kn5",
+         "layout": "",
+         "checksum": "b2cd9c64545b809ea0506b6c326e880f"
+      },
+      {
+         "filepath": "content/tracks/slovakiaring/zs_silesiaring/east.kn5",
+         "layout": "",
+         "checksum": "e0bcacd8af16b806be52b1bae0289327"
+      },
+      {
+         "filepath": "content/tracks/slovakiaring/zs_silesiaring/ks_objects.kn5",
+         "layout": "",
+         "checksum": "5b217590dbe5d463b50b7709afaa183e"
+      },
+      {
+         "filepath": "content/tracks/slovakiaring/zs_silesiaring/phys.kn5",
+         "layout": "",
+         "checksum": "4f4fa67b85e412cfd538fe7a05a6b9a4"
+      },
+      {
+         "filepath": "content/tracks/slovakiaring/zs_silesiaring/silesia_road.kn5",
+         "layout": "",
+         "checksum": "bcced8644f2f6d23a92b9ea972e83c2c"
+      },
+      {
+         "filepath": "content/tracks/slovakiaring/zs_silesiaring/silesia_road_config_east.kn5",
+         "layout": "",
+         "checksum": "900cf828d7e2b72128701a3cd2584006"
+      },
+      {
+         "filepath": "content/tracks/slovakiaring/zs_silesiaring/silesia_road_config_full.kn5",
+         "layout": "",
+         "checksum": "f048aedc5ea7dad14bea05122545e07e"
+      }
+   ],
+   "layouts": {}
+}

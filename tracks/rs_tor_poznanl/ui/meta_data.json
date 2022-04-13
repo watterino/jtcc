@@ -1,0 +1,89 @@
+{
+   "downloadURL": "https://www.racedepartment.com/downloads/tor-pozna%C5%84.6118/download",
+   "notes": "",
+   "checksums": [
+      {
+         "filepath": "content/tracks/rs_tor_poznanl/2.kn5",
+         "layout": "",
+         "checksum": "e21fe8b539a014808e20edab4ff13399"
+      },
+      {
+         "filepath": "content/tracks/rs_tor_poznanl/crew.kn5",
+         "layout": "",
+         "checksum": "b3b0f7065696b519076b55aa9124c0e7"
+      },
+      {
+         "filepath": "content/tracks/rs_tor_poznanl/drift_zona.kn5",
+         "layout": "",
+         "checksum": "1a31c04a26ec163828aa796818bb9c6e"
+      },
+      {
+         "filepath": "content/tracks/rs_tor_poznanl/ice.kn5",
+         "layout": "",
+         "checksum": "b195dd1a42e8998e6d9e9f69c4b14c06"
+      },
+      {
+         "filepath": "content/tracks/rs_tor_poznanl/rev.kn5",
+         "layout": "",
+         "checksum": "378abb9d787d6592f8f962bc956c39d3"
+      },
+      {
+         "filepath": "content/tracks/rs_tor_poznanl/rotax_karting_start.kn5",
+         "layout": "",
+         "checksum": "a5a975eddd7f49d427557041bff6eac2"
+      },
+      {
+         "filepath": "content/tracks/rs_tor_poznanl/rotax_karting_wall.kn5",
+         "layout": "",
+         "checksum": "87f0cce560d973dd9723e9b3c7d27edb"
+      },
+      {
+         "filepath": "content/tracks/rs_tor_poznanl/rs_tor_poznanl.kn5",
+         "layout": "",
+         "checksum": "d066156cd21da077b072e1196486a7e4"
+      },
+      {
+         "filepath": "content/tracks/rs_tor_poznanl/s.kn5",
+         "layout": "",
+         "checksum": "b003fc6832254d5a416da49d2f0dccab"
+      },
+      {
+         "filepath": "content/tracks/rs_tor_poznanl/start_drift.kn5",
+         "layout": "",
+         "checksum": "dfdbd3bd84e43d7796142e3aaf0a34d6"
+      },
+      {
+         "filepath": "content/tracks/rs_tor_poznanl/s_1.kn5",
+         "layout": "",
+         "checksum": "21651e2a391f5aaaf901ae5550fe4b9c"
+      },
+      {
+         "filepath": "content/tracks/rs_tor_poznanl/tor_poznand.kn5",
+         "layout": "",
+         "checksum": "fcc609bca0d3e88ff3da95167a5f828c"
+      },
+      {
+         "filepath": "content/tracks/rs_tor_poznanl/tor_poznano.kn5",
+         "layout": "",
+         "checksum": "15524326d039cc1b10b57c89b75042c3"
+      },
+      {
+         "filepath": "content/tracks/rs_tor_poznanl/tor_poznanpall.kn5",
+         "layout": "",
+         "checksum": "f3204a1ee40fe3ea5df192b884c5954c"
+      },
+      {
+         "filepath": "content/tracks/rs_tor_poznanl/tor_poznan_start.kn5",
+         "layout": "",
+         "checksum": "eebdf62c5882f8bbd9db1394e76e5eb9"
+      }
+   ],
+   "layouts": {
+      "laser": {
+         "splineCalculationDistance": 3,
+         "splineCalculationMaxSpeed": 50,
+         "splineCalculationMaxDistance": 4,
+         "SectorPositions": null
+      }
+   }
+}

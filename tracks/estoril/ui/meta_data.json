@@ -1,0 +1,34 @@
+{
+   "downloadURL": "https://files.assettocorsaclub.com/file/acclub-files/fae504/estoril.rar",
+   "notes": "",
+   "checksums": [
+      {
+         "filepath": "content/tracks/estoril/estoril.kn5",
+         "layout": "",
+         "checksum": "48f4d63eced1634ad9ea5ff841cf6548"
+      },
+      {
+         "filepath": "content/tracks/estoril/estoril_gp.kn5",
+         "layout": "",
+         "checksum": "6f87ab32411726c8da4969c80eadb738"
+      },
+      {
+         "filepath": "content/tracks/estoril/estoril_grass.kn5",
+         "layout": "",
+         "checksum": "77b3f8e40c5d3d096e848b7ef3f853ee"
+      },
+      {
+         "filepath": "content/tracks/estoril/estoril_no_chicane.kn5",
+         "layout": "",
+         "checksum": "b595650bbfdbd4f22a9f11ec16e49a07"
+      }
+   ],
+   "layouts": {
+      "estoril_no_chicane": {
+         "splineCalculationDistance": 2,
+         "splineCalculationMaxSpeed": 55,
+         "splineCalculationMaxDistance": 10000,
+         "SectorPositions": null
+      }
+   }
+}

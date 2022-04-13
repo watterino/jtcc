@@ -1,0 +1,25 @@
+{
+  "name": "Lausitzring DTM '21",
+  "description": "Lausitz Ring DTM 2021 season layout",
+  "tags": [
+    "circuit",
+    "original",
+    "Germany",
+    "DTM",
+    "roval"
+  ],
+  "country": "Germany",
+  "city": "Klettwitz",
+  "length": "4525 m",
+  "width": "12-14",
+  "pitboxes": "42",
+  "run": "coutnerclockwise",
+  "author": "TM-Modding",
+  "url": "https://tm-modding.eu/",
+  "version": "1.51",
+  "year": 2021,
+  "geotags": [
+    "51° 32′ 25″ N",
+    "13° 54′ 46″ E"
+  ]
+}

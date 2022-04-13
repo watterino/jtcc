@@ -1,0 +1,12 @@
+{
+	"name": "Monaco",
+	"description": "Circuit de Monaco (OSRW 1.1)",
+	"tags" : ["circuit","original","Monaco"],
+	"geotags": ["lat", "lon"],
+	"country": "monaco",
+	"city": "Monte Carlo (MC)",
+	"length": "3.340m",
+	"width": "10m-12m",
+	"pitboxes": "24",
+	"run": "clockwise"
+}

@@ -1,0 +1,24 @@
+{
+   "downloadURL": "https://drive.google.com/u/0/uc?id=1RcaQE9lgT8uwKSLEiHXOPX_6DCdkz7uf\u0026export=download",
+   "notes": "",
+   "checksums": [
+      {
+         "filepath": "content/tracks/helsinki_thunder/helsinki_thunder.kn5",
+         "layout": "",
+         "checksum": "8a7d3374cafd2061d29f6f959ad6942b"
+      },
+      {
+         "filepath": "content/tracks/helsinki_thunder/physics.kn5",
+         "layout": "",
+         "checksum": "5c83f094224ad474b9cd9256c0cec849"
+      }
+   ],
+   "layouts": {
+      "online": {
+         "splineCalculationDistance": 3,
+         "splineCalculationMaxSpeed": 50,
+         "splineCalculationMaxDistance": 4,
+         "SectorPositions": null
+      }
+   }
+}

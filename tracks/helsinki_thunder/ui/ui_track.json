@@ -1,0 +1,20 @@
+{
+  "name": "Helsinki Thunder",
+  "description": "Temporary Street Circuit",
+  "tags": [
+    "circuit"
+  ],
+  "country": "Finland",
+  "city": "Helsinki",
+  "length": "2992 m",
+  "width": "5–9 m",
+  "pitboxes": "40",
+  "run": "clockwise",
+  "author": "Legion",
+  "version": "20210204",
+  "url": null,
+  "geotags": [
+    "60° 10′ 16″ N",
+    "24° 56′ 57″ E"
+  ]
+}

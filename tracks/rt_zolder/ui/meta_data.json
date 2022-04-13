@@ -1,0 +1,100 @@
+{
+   "downloadURL": "https://www.mediafire.com/file/twg7ckfal3ch480/rt_zolder.7z/file",
+   "notes": "",
+   "checksums": [
+      {
+         "filepath": "content/tracks/rt_zolder/airliner.kn5",
+         "layout": "",
+         "checksum": "83bd348421705ff3789b24f4a97da335"
+      },
+      {
+         "filepath": "content/tracks/rt_zolder/audio.kn5",
+         "layout": "",
+         "checksum": "89e5c0b5f8b21570c18dd6f8cec2e7bf"
+      },
+      {
+         "filepath": "content/tracks/rt_zolder/bal_mt1.kn5",
+         "layout": "",
+         "checksum": "3d8c5476b8803c6a81264ae16389eb0d"
+      },
+      {
+         "filepath": "content/tracks/rt_zolder/bal_mt2.kn5",
+         "layout": "",
+         "checksum": "3119b30b2661a694aaf9b397a9219520"
+      },
+      {
+         "filepath": "content/tracks/rt_zolder/bal_mt3.kn5",
+         "layout": "",
+         "checksum": "dc43028ef74c9b81e9148ac86b99587d"
+      },
+      {
+         "filepath": "content/tracks/rt_zolder/blimp.kn5",
+         "layout": "",
+         "checksum": "4a3ff6a550199df4c263e9fbe13ed51a"
+      },
+      {
+         "filepath": "content/tracks/rt_zolder/crew_anim.kn5",
+         "layout": "",
+         "checksum": "24b5d7ce73da24a6d252d5500f1b0421"
+      },
+      {
+         "filepath": "content/tracks/rt_zolder/crowd.kn5",
+         "layout": "",
+         "checksum": "942c5e0eab181421ad2c0642b000925d"
+      },
+      {
+         "filepath": "content/tracks/rt_zolder/heli_hughesfly_00.kn5",
+         "layout": "",
+         "checksum": "d8fcff76a8ab5f5b65d5c359117db4e5"
+      },
+      {
+         "filepath": "content/tracks/rt_zolder/heli_redfly.kn5",
+         "layout": "",
+         "checksum": "ce6c8dcbd07d554182ee31f3860ac24e"
+      },
+      {
+         "filepath": "content/tracks/rt_zolder/heli_yellowfly.kn5",
+         "layout": "",
+         "checksum": "1141931b949a580a10f7d84e75327732"
+      },
+      {
+         "filepath": "content/tracks/rt_zolder/rt_zolder.kn5",
+         "layout": "",
+         "checksum": "1368f1198391585c2faf949b03797892"
+      },
+      {
+         "filepath": "content/tracks/rt_zolder/track_assets.kn5",
+         "layout": "",
+         "checksum": "edeeba48d4b245364d715465958cf9bf"
+      },
+      {
+         "filepath": "content/tracks/rt_zolder/trees.kn5",
+         "layout": "",
+         "checksum": "7e56c388b99a56354b52a581585afe80"
+      },
+      {
+         "filepath": "content/tracks/rt_zolder/windmills.kn5",
+         "layout": "",
+         "checksum": "c533a6972a187dd13e2be4a2c2bdb6bb"
+      },
+      {
+         "filepath": "content/tracks/rt_zolder/extras/jumbotrons.kn5",
+         "layout": "",
+         "checksum": "1369872dd5de7311e1616e46038cd1be"
+      }
+   ],
+   "layouts": {
+      "zolder_mp": {
+         "splineCalculationDistance": 3,
+         "splineCalculationMaxSpeed": 50,
+         "splineCalculationMaxDistance": 4,
+         "SectorPositions": null
+      },
+      "zolder_sp": {
+         "splineCalculationDistance": 3,
+         "splineCalculationMaxSpeed": 50,
+         "splineCalculationMaxDistance": 4,
+         "SectorPositions": null
+      }
+   }
+}

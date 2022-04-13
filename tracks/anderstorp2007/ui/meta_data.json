@@ -1,0 +1,24 @@
+{
+   "downloadURL": "http://www.mediafire.com/file/95p82qg99fwjabc/Anderstorp_2007_v1.2_by_Rainmaker.7z/file",
+   "notes": "",
+   "checksums": [
+      {
+         "filepath": "content/tracks/anderstorp2007/anderstorp2007.kn5",
+         "layout": "",
+         "checksum": "d01211eba82c3b8a9d7b260cdfd84779"
+      },
+      {
+         "filepath": "content/tracks/anderstorp2007/anderstorp2007road.kn5",
+         "layout": "",
+         "checksum": "8b9b4ad3d447502fd05d7e6b0067e1b0"
+      }
+   ],
+   "layouts": {
+      "": {
+         "splineCalculationDistance": 3,
+         "splineCalculationMaxSpeed": 70,
+         "splineCalculationMaxDistance": 4,
+         "SectorPositions": null
+      }
+   }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "TT Circuit Assen Motorsport",
+  "description": "The Cathedral of Speed",
+  "tags": [
+    "circuit",
+    "MotoGP",
+    "Superbike",
+    "WSBK",
+    "BSB",
+    "IDM",
+    "OW Cup"
+  ],
+  "geotags": [
+    "52.962324",
+    "6.524110"
+  ],
+  "country": "Netherlands",
+  "city": "Assen",
+  "turns": "18",
+  "length": "4545m",
+  "width": "10-14m",
+  "pitboxes": "34",
+  "year": 2020,
+  "run": "clockwise",
+  "author": "NightEye",
+  "version": "0.8.2",
+  "url": "https://www.racedepartment.com/downloads/tt-circuit-assen.4536/",
+  "priority": 2.0
+}

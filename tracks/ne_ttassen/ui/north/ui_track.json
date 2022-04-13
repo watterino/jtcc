@@ -1,0 +1,24 @@
+{
+  "name": "TT Circuit Assen North",
+  "description": "The Cathedral of Speed",
+  "tags": [
+    "circuit",
+    "club"
+  ],
+  "geotags": [
+    "52.962324",
+    "6.524110"
+  ],
+  "country": "Netherlands",
+  "city": "Assen",
+  "turns": "11",
+  "length": "2365m",
+  "width": "10-14m",
+  "pitboxes": "34",
+  "year": 2020,
+  "run": "clockwise",
+  "author": "NightEye",
+  "version": "0.8.2",
+  "url": "https://www.racedepartment.com/downloads/tt-circuit-assen.4536/",
+  "priority": 3.0
+}

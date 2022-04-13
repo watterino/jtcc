@@ -1,0 +1,12 @@
+ {
+	"name": "Donington Park 2018 GP",
+	"description": "Donington Park GP Circuit",
+	"tags" : ["circuit","circuit","UK"],
+	"geotags": ["lat", "lon"],
+	"country": "Great Britain",
+	"city": "Donington",
+	"length": "4.020m",
+	"width": "10m-15m",
+	"pitboxes": "24",
+	"run": "clockwise"
+}

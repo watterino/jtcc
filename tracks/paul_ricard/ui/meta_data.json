@@ -1,0 +1,74 @@
+{
+   "downloadURL": "https://www.racedepartment.com/downloads/paul-ricard.6115/download",
+   "notes": "",
+   "checksums": [
+      {
+         "filepath": "content/tracks/paul_ricard/Ballooning.kn5",
+         "layout": "",
+         "checksum": "b2007dac3bbc327c8d00ea39f6128bd0"
+      },
+      {
+         "filepath": "content/tracks/paul_ricard/paul_ricard.kn5",
+         "layout": "",
+         "checksum": "e8800e3da6811d41cab31f8a8770b02c"
+      },
+      {
+         "filepath": "content/tracks/paul_ricard/paul_ricard_blancpain.kn5",
+         "layout": "",
+         "checksum": "23784d808086bf949f96a49032b4ffd1"
+      },
+      {
+         "filepath": "content/tracks/paul_ricard/Paul_Ricard_colidable.kn5",
+         "layout": "",
+         "checksum": "aa03ccf1da81339018101fe973a441b1"
+      },
+      {
+         "filepath": "content/tracks/paul_ricard/paul_ricard_gt_24h.kn5",
+         "layout": "",
+         "checksum": "ace7303b835284d52eea6aa8b953eccd"
+      },
+      {
+         "filepath": "content/tracks/paul_ricard/paul_ricard_tourism_training.kn5",
+         "layout": "",
+         "checksum": "bf831960a95f329afc7c13167ed6c8f6"
+      },
+      {
+         "filepath": "content/tracks/paul_ricard/Paul_Ricard_Track.kn5",
+         "layout": "",
+         "checksum": "a5f6a7ff1cd44bc711884af9e5b1eb61"
+      },
+      {
+         "filepath": "content/tracks/paul_ricard/Paul_Ricard_tree.kn5",
+         "layout": "",
+         "checksum": "34bcf3d3b8893bd0a3c3d1aebc0302dd"
+      },
+      {
+         "filepath": "content/tracks/paul_ricard/paul_ricard_wtcc.kn5",
+         "layout": "",
+         "checksum": "9bbdbe395a14e7979567e7835bae6985"
+      },
+      {
+         "filepath": "content/tracks/paul_ricard/Penality_Chican.kn5",
+         "layout": "",
+         "checksum": "c8cb813b95787b3fdb246f25298ec69b"
+      },
+      {
+         "filepath": "content/tracks/paul_ricard/Penality_No_Chican.kn5",
+         "layout": "",
+         "checksum": "11e0ca47981bf9599c6b96865e88627d"
+      },
+      {
+         "filepath": "content/tracks/paul_ricard/Safetycar.kn5",
+         "layout": "",
+         "checksum": "b551f8454b8af6bd61a4d5917a8e1d4c"
+      }
+   ],
+   "layouts": {
+      "wtcc": {
+         "splineCalculationDistance": 3,
+         "splineCalculationMaxSpeed": 40,
+         "splineCalculationMaxDistance": 4,
+         "SectorPositions": null
+      }
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "downloadURL": "https://www.racedepartment.com/downloads/algarve-international-circuit.2874/download",
+   "notes": "",
+   "checksums": [
+      {
+         "filepath": "content/tracks/algarve_international_circuit/algarve_international_circuit.kn5",
+         "layout": "",
+         "checksum": "b799e1a20c8c7d58e5a8ea3a18d9b7ac"
+      }
+   ],
+   "layouts": {
+      "": {
+         "splineCalculationDistance": 3,
+         "splineCalculationMaxSpeed": 60,
+         "splineCalculationMaxDistance": 4,
+         "SectorPositions": null
+      }
+   }
+}

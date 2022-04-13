@@ -1,0 +1,21 @@
+{
+  "name": "Albi 2006",
+  "description": "Circuit d’Albi",
+  "tags": [
+    "circuit"
+  ],
+  "geotags": [
+    "43.9089° N",
+    "2.1138° E"
+  ],
+  "country": "France",
+  "city": "Le Sequestre",
+  "length": "3.551 m",
+  "width": "m",
+  "pitboxes": "25",
+  "run": "clockwise",
+  "year": 2006,
+  "author": "NeelJ and Rainmaker",
+  "version": null,
+  "url": "http://www.mediafire.com/download/0772zkf1fwrwslb/albi2006.7z"
+}

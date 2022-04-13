@@ -1,0 +1,21 @@
+{
+  "name": "ACF - Circuito da Boavista 2007",
+  "description": "Credits :<br>Original Track created by SimBin Studios for Race07<br>GTR2 Conversion by napf<br>Assetto Corsa Conversion by ACF",
+  "tags": [
+    "circuit"
+  ],
+  "country": "Portugal",
+  "city": "Porto",
+  "length": "7.418 m",
+  "width": "m",
+  "pitboxes": "30",
+  "run": "counter clockwise",
+  "year": 2007,
+  "author": null,
+  "version": null,
+  "url": null,
+  "geotags": [
+    "41° 10′ 57″ N",
+    "8° 41′ 41″ W"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+   "downloadURL": "http://www.mediafire.com/file/18v3ip1w5xnddcr/acu_hungaroring_v.1.1.rar/file",
+   "notes": "",
+   "checksums": [
+      {
+         "filepath": "content/tracks/acu_hungaroring/acu_hungaroring.kn5",
+         "layout": "",
+         "checksum": "42c5e668edfa45fa23ffb75de4781e65"
+      }
+   ],
+   "layouts": {
+      "": {
+         "splineCalculationDistance": 3,
+         "splineCalculationMaxSpeed": 60,
+         "splineCalculationMaxDistance": 100,
+         "SectorPositions": null
+      }
+   }
+}

@@ -1,0 +1,77 @@
+{
+   "downloadURL": "https://www.racedepartment.com/downloads/lausitzring.24824/download",
+   "notes": "",
+   "checksums": [
+      {
+         "filepath": "content/tracks/tmm_lausitzring/crowd_facing.kn5",
+         "layout": "",
+         "checksum": "4a2f1a097f51f7bdd8497e24196ffa0e"
+      },
+      {
+         "filepath": "content/tracks/tmm_lausitzring/dtm21_layout.kn5",
+         "layout": "",
+         "checksum": "aef99e433485cda5070ed1c16faf5826"
+      },
+      {
+         "filepath": "content/tracks/tmm_lausitzring/dtm_layout.kn5",
+         "layout": "",
+         "checksum": "1e2e423fbaa4498659f6ee6d4f14dd2a"
+      },
+      {
+         "filepath": "content/tracks/tmm_lausitzring/gp_layout.kn5",
+         "layout": "",
+         "checksum": "a2fe7402796b99551797aa3bf4255f21"
+      },
+      {
+         "filepath": "content/tracks/tmm_lausitzring/grass.kn5",
+         "layout": "",
+         "checksum": "dd9fb9621fc2fa3f9f0253c82c09365a"
+      },
+      {
+         "filepath": "content/tracks/tmm_lausitzring/groove_dtm.kn5",
+         "layout": "",
+         "checksum": "734a31a6428a76cc5c27657416a6fe62"
+      },
+      {
+         "filepath": "content/tracks/tmm_lausitzring/groove_dtm21.kn5",
+         "layout": "",
+         "checksum": "75fb25bb6dcabc771bff6231fa402100"
+      },
+      {
+         "filepath": "content/tracks/tmm_lausitzring/groove_gp.kn5",
+         "layout": "",
+         "checksum": "937cbfb3b182e42239ac800a144cbdb6"
+      },
+      {
+         "filepath": "content/tracks/tmm_lausitzring/groove_oval.kn5",
+         "layout": "",
+         "checksum": "9a0537d735e16622ade1a62ec2fcc464"
+      },
+      {
+         "filepath": "content/tracks/tmm_lausitzring/hires_road.kn5",
+         "layout": "",
+         "checksum": "9b69f02deb106dd88692387890ab175b"
+      },
+      {
+         "filepath": "content/tracks/tmm_lausitzring/oval_layout.kn5",
+         "layout": "",
+         "checksum": "1ab8eb572ca83d2cedb317433855f6d8"
+      },
+      {
+         "filepath": "content/tracks/tmm_lausitzring/pitcones.kn5",
+         "layout": "",
+         "checksum": "f3e19b412c607cc9e11e7c2a12825f1f"
+      },
+      {
+         "filepath": "content/tracks/tmm_lausitzring/t1_props.kn5",
+         "layout": "",
+         "checksum": "c168dc9bfe6310923c316efdaa446e6a"
+      },
+      {
+         "filepath": "content/tracks/tmm_lausitzring/tmm_lausitzring.kn5",
+         "layout": "",
+         "checksum": "879c0b7c4ac46fa292cccc66953afe19"
+      }
+   ],
+   "layouts": {}
+}

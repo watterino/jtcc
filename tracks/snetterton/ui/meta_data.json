@@ -1,0 +1,49 @@
+{
+   "downloadURL": "https://www.mediafire.com/file/3uke277d3ulhz3t/Snetterton_2017_Reboot_Version_1.1.rar/file",
+   "notes": "",
+   "checksums": [
+      {
+         "filepath": "content/tracks/snetterton/12.kn5",
+         "layout": "",
+         "checksum": "cfb1dad8ec9cc30b6919950dac8763fe"
+      },
+      {
+         "filepath": "content/tracks/snetterton/actiming.kn5",
+         "layout": "",
+         "checksum": "56c56555cae57af75b6421e100c2af5c"
+      },
+      {
+         "filepath": "content/tracks/snetterton/collision.kn5",
+         "layout": "",
+         "checksum": "ca9daab3a216302197e80046010e2db4"
+      },
+      {
+         "filepath": "content/tracks/snetterton/collision2.kn5",
+         "layout": "",
+         "checksum": "7b9ce3bc364a9edbfc1561ace6211b5a"
+      },
+      {
+         "filepath": "content/tracks/snetterton/snetterton.kn5",
+         "layout": "",
+         "checksum": "8ed17eaea713604a8f46dc818fe9160a"
+      },
+      {
+         "filepath": "content/tracks/snetterton/snettertonmesh.kn5",
+         "layout": "",
+         "checksum": "b4e6ff18f69b6438fec0569d8246da02"
+      },
+      {
+         "filepath": "content/tracks/snetterton/snettertontrees.kn5",
+         "layout": "",
+         "checksum": "2bdc248705dac6411d8e6dbb2c0001fd"
+      }
+   ],
+   "layouts": {
+      "snetterton300": {
+         "splineCalculationDistance": 3,
+         "splineCalculationMaxSpeed": 50,
+         "splineCalculationMaxDistance": 4,
+         "SectorPositions": null
+      }
+   }
+}

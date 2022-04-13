@@ -1,0 +1,23 @@
+{
+  "name": "Autodrom Most 2019",
+  "description": "Autodrom Most, Czech Republic",
+  "tags": [
+    "circuit",
+    "original",
+    "Czech Republic"
+  ],
+  "country": "Czech Republic",
+  "city": "Most",
+  "length": "4219",
+  "width": "12-14",
+  "pitboxes": "42",
+  "run": "clockwise",
+  "author": "Reboot Team",
+  "url": "https://tm-modding.eu/reboot-team-tracks/",
+  "version": "1.01",
+  "year": 2018,
+  "geotags": [
+    "50° 31′ 10″ N",
+    "13° 36′ 08″ E"
+  ]
+}

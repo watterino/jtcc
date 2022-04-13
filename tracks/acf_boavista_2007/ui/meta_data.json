@@ -1,0 +1,27 @@
+{
+   "downloadURL": "https://mega.nz/file/7xYBUAQL#6Yo5lEwo7j30gnlzysmdPcis3PCRhG_ZHk0mXokzpDI",
+   "notes": "\u003cp align=\"left\"\u003e\u003cb\u003eHotlap\u003c/b\u003e:\u003c/p\u003e\u003cp align=\"center\"\u003e\u003ciframe src=\"//www.youtube.com/embed/TrLblcrSVwA\" class=\"note-video-clip\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" width=\"100%\" height=\"400\" frameborder=\"0\" align=\"middle\"\u003e\u003c/iframe\u003e\u003cbr\u003e\u003c/p\u003e",
+   "checksums": [
+      {
+         "filepath": "content/tracks/acf_boavista_2007/acf_boavista_2007.kn5",
+         "layout": "",
+         "checksum": "7e4c79db1b42a7bf176afb33002f4af6"
+      },
+      {
+         "filepath": "content/tracks/acf_boavista_2007/acf_boavista_2007_building.kn5",
+         "layout": "",
+         "checksum": "b9d3659b1fdbf35fcda31d210fbeb6ac"
+      },
+      {
+         "filepath": "content/tracks/acf_boavista_2007/acf_boavista_2007_grid.kn5",
+         "layout": "",
+         "checksum": "fe4e32471e8da8e668d7867cf6da1d70"
+      },
+      {
+         "filepath": "content/tracks/acf_boavista_2007/acf_boavista_2007_trees.kn5",
+         "layout": "",
+         "checksum": "d51f39af95cfd1e70be12821258235ad"
+      }
+   ],
+   "layouts": {}
+}

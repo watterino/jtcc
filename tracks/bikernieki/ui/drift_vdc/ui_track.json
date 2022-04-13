@@ -1,0 +1,12 @@
+﻿{
+	"name": "Bikernieki - VDC",
+	"description": "May 2018, v0.6",
+	"tags" : ["bikernieki","Drift","VDC","circuit","Latvia"],
+	"geotags": ["56.9673° N", "24.2251° E"],
+	"country": "Latvia",
+	"city": "Riga",
+	"length": "515",
+	"width": "8-16",
+	"pitboxes": "32",
+	"run": "clockwise"
+}

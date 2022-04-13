@@ -1,0 +1,19 @@
+{
+   "downloadURL": "https://www.racedepartment.com/downloads/circuit-de-pau-2017.15615/download",
+   "notes": "",
+   "checksums": [
+      {
+         "filepath": "content/tracks/pau_2017/pau_2017.kn5",
+         "layout": "",
+         "checksum": "ffe872d2d31a0c763bfa1af4f25534b6"
+      }
+   ],
+   "layouts": {
+      "": {
+         "splineCalculationDistance": 3,
+         "splineCalculationMaxSpeed": 50,
+         "splineCalculationMaxDistance": 4,
+         "SectorPositions": null
+      }
+   }
+}

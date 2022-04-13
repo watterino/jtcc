@@ -1,0 +1,12 @@
+{
+	"name": "Valencia Street Circuit",
+	"description": "Circuit Urba de Valencia",
+	"tags" : ["circuit","original","Valencia"],
+	"geotags": ["lat", "lon"],
+	"country": "Spain",
+	"city": "Valencia",
+	"length": "5.419m",
+	"width": "14m",
+	"pitboxes": "22",
+	"run": "clockwise"
+}

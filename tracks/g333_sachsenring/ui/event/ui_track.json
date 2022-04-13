@@ -1,0 +1,22 @@
+{
+  "name": "Sachsenring",
+  "description": "2020 Layout",
+  "tags": [
+    "circuit",
+    "Germany"
+  ],
+  "geotags": [
+    "50.791 N",
+    "12.688 E"
+  ],
+  "country": "Germany",
+  "city": "Hohenstein",
+  "length": "3.671 m",
+  "width": "12-15 m",
+  "pitboxes": "32",
+  "run": "anti-clockwise",
+  "author": null,
+  "version": "1.11",
+  "url": null,
+  "year": 2020
+}

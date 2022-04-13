@@ -1,0 +1,23 @@
+﻿{
+  "name": "Oulton Park - International",
+  "description": "Oulton Park",
+  "tags": [
+    "circuit",
+    "original",
+    "btcc",
+    "UK"
+  ],
+  "geotags": [
+    "53.1072° N",
+    "2.6147° W"
+  ],
+  "country": "Great Britain",
+  "city": "Cheshire",
+  "length": "4.333 m",
+  "width": "12m",
+  "pitboxes": "34",
+  "run": "clockwise",
+  "author": null,
+  "version": null,
+  "url": null
+}

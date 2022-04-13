@@ -1,0 +1,23 @@
+{
+  "name": "Snetterton 200",
+  "description": "Snetterton",
+  "tags": [
+    "",
+    "circuit",
+    "Great Britain",
+    "UK"
+  ],
+  "geotags": [
+    "lat",
+    "lon"
+  ],
+  "country": "Great Britain",
+  "city": "Norfolk",
+  "length": "3219m",
+  "width": "8m-10m",
+  "pitboxes": "30",
+  "run": "Clockwise",
+  "author": null,
+  "version": null,
+  "url": null
+}

@@ -1,0 +1,167 @@
+{
+   "downloadURL": "https://www.racedepartment.com/downloads/tt-circuit-assen.4536/download",
+   "notes": "",
+   "checksums": [
+      {
+         "filepath": "content/tracks/ne_ttassen/luchtballonRTD.kn5",
+         "layout": "",
+         "checksum": "08e025d5c09a4aa0a9032a4b3176b619"
+      },
+      {
+         "filepath": "content/tracks/ne_ttassen/luchtballonTT.kn5",
+         "layout": "",
+         "checksum": "e59cdd26766dc8d893c171be4d9a9e68"
+      },
+      {
+         "filepath": "content/tracks/ne_ttassen/ne_ttassen.kn5",
+         "layout": "",
+         "checksum": "5d5a5a8430753f29e0a3ace176a9b3f4"
+      },
+      {
+         "filepath": "content/tracks/ne_ttassen/ne_ttassen_accrew.kn5",
+         "layout": "",
+         "checksum": "e7250d9bc7510f326f3360bb4d473303"
+      },
+      {
+         "filepath": "content/tracks/ne_ttassen/ne_ttassen_AUTO.kn5",
+         "layout": "",
+         "checksum": "93cc274f8f703b2bd20184084a04357d"
+      },
+      {
+         "filepath": "content/tracks/ne_ttassen/ne_ttassen_barriers.kn5",
+         "layout": "",
+         "checksum": "72b562a86c2dc7ebcefd9df0d32ca8e3"
+      },
+      {
+         "filepath": "content/tracks/ne_ttassen/ne_ttassen_crowd.kn5",
+         "layout": "",
+         "checksum": "85e43d24e0147b8cf2baf637f3be11c2"
+      },
+      {
+         "filepath": "content/tracks/ne_ttassen/ne_ttassen_digiflags.kn5",
+         "layout": "",
+         "checksum": "87aa640992a827496d2a6617f96fd506"
+      },
+      {
+         "filepath": "content/tracks/ne_ttassen/ne_ttassen_fences.kn5",
+         "layout": "",
+         "checksum": "5ff296a95b85d4a703ed152a478a27f9"
+      },
+      {
+         "filepath": "content/tracks/ne_ttassen/ne_ttassen_grooves.kn5",
+         "layout": "",
+         "checksum": "ce95856b4d4fed0e7cea735e9c1b2063"
+      },
+      {
+         "filepath": "content/tracks/ne_ttassen/ne_ttassen_grooves_auto.kn5",
+         "layout": "",
+         "checksum": "7ae540c482f04291c9eb21224216a582"
+      },
+      {
+         "filepath": "content/tracks/ne_ttassen/ne_ttassen_grooves_motor.kn5",
+         "layout": "",
+         "checksum": "2bf6d78146362961ef58c1a749b80986"
+      },
+      {
+         "filepath": "content/tracks/ne_ttassen/ne_ttassen_grooves_north.kn5",
+         "layout": "",
+         "checksum": "9e56fc1369fb1fc32f3d064b83a21d41"
+      },
+      {
+         "filepath": "content/tracks/ne_ttassen/ne_ttassen_guardrails.kn5",
+         "layout": "",
+         "checksum": "867729f6ee45fd7226a13a16e05ea6b2"
+      },
+      {
+         "filepath": "content/tracks/ne_ttassen/ne_ttassen_junior_AC_xxx.kn5",
+         "layout": "",
+         "checksum": "60fa4f474c9546cb105867e304056b6b"
+      },
+      {
+         "filepath": "content/tracks/ne_ttassen/ne_ttassen_junior_physics.kn5",
+         "layout": "",
+         "checksum": "c7776c77e717ba685d935c9f1782a023"
+      },
+      {
+         "filepath": "content/tracks/ne_ttassen/ne_ttassen_L200.kn5",
+         "layout": "",
+         "checksum": "5f0e4e91eb97960f55b38d66b8618da9"
+      },
+      {
+         "filepath": "content/tracks/ne_ttassen/ne_ttassen_MOTOR.kn5",
+         "layout": "",
+         "checksum": "3a550b7c5ed49da9998c83802c0f4e36"
+      },
+      {
+         "filepath": "content/tracks/ne_ttassen/ne_ttassen_NORTH.kn5",
+         "layout": "",
+         "checksum": "76cb3a8b5e38e50aa186ed29c6daa1de"
+      },
+      {
+         "filepath": "content/tracks/ne_ttassen/ne_ttassen_physics.kn5",
+         "layout": "",
+         "checksum": "9810cd8cd3c60a50e9d8d640e3972ff8"
+      },
+      {
+         "filepath": "content/tracks/ne_ttassen/ne_ttassen_pits.kn5",
+         "layout": "",
+         "checksum": "5340807a111d879e98e2b08d8b41d28d"
+      },
+      {
+         "filepath": "content/tracks/ne_ttassen/ne_ttassen_ruskenhoek_cut.kn5",
+         "layout": "",
+         "checksum": "3f2529769664acad57964d5baf899512"
+      },
+      {
+         "filepath": "content/tracks/ne_ttassen/ne_ttassen_shrubbery.kn5",
+         "layout": "",
+         "checksum": "499a991806dd7e8c472e1af826340625"
+      },
+      {
+         "filepath": "content/tracks/ne_ttassen/ne_ttassen_sponsors.kn5",
+         "layout": "",
+         "checksum": "ecec6569d2b5a7aa8bdae430421e9fad"
+      },
+      {
+         "filepath": "content/tracks/ne_ttassen/ne_ttassen_starts.kn5",
+         "layout": "",
+         "checksum": "1fb60b2029b6faafc016ce836cfdff63"
+      },
+      {
+         "filepath": "content/tracks/ne_ttassen/ne_ttassen_starts_north.kn5",
+         "layout": "",
+         "checksum": "b684128787086ad8d18067db1337bcce"
+      },
+      {
+         "filepath": "content/tracks/ne_ttassen/ne_ttassen_timings.kn5",
+         "layout": "",
+         "checksum": "a7a4cbb9703abb411ce47f3856f53e1e"
+      },
+      {
+         "filepath": "content/tracks/ne_ttassen/ne_ttassen_timings_north.kn5",
+         "layout": "",
+         "checksum": "656516a3eb9a22f9bd99efc3ae0c4e04"
+      },
+      {
+         "filepath": "content/tracks/ne_ttassen/ne_ttassen_trackside.kn5",
+         "layout": "",
+         "checksum": "dd240d6719dbeffaf139d056ec83110e"
+      },
+      {
+         "filepath": "content/tracks/ne_ttassen/ne_ttassen_trees.kn5",
+         "layout": "",
+         "checksum": "d5330b2f1f2f9eb210eef7d1cdcc63bb"
+      },
+      {
+         "filepath": "content/tracks/ne_ttassen/ne_ttassen_tyrestacks.kn5",
+         "layout": "",
+         "checksum": "ed9d0a3b8f7773fbcdbe321221d0c3f1"
+      },
+      {
+         "filepath": "content/tracks/ne_ttassen/ne_ttassen_walls.kn5",
+         "layout": "",
+         "checksum": "c97a528682f835e30ce4ca6074da481b"
+      }
+   ],
+   "layouts": {}
+}

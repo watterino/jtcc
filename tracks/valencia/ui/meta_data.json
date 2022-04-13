@@ -1,0 +1,19 @@
+{
+   "downloadURL": "https://files.assettocorsaclub.com/file/acclub-files/c728fa/valencia_10.rar",
+   "notes": "",
+   "checksums": [
+      {
+         "filepath": "content/tracks/valencia/valencia.kn5",
+         "layout": "",
+         "checksum": "ae6f7775ccc145c20418610d00954d17"
+      }
+   ],
+   "layouts": {
+      "": {
+         "splineCalculationDistance": 3,
+         "splineCalculationMaxSpeed": 50,
+         "splineCalculationMaxDistance": 4,
+         "SectorPositions": null
+      }
+   }
+}

@@ -1,0 +1,12 @@
+{
+	"name": "Paul Ricard WTCC v0.9.7",
+	"description": "Paul Ricard WTCC Layout",
+	"tags" : ["circuit"],
+	"country": "France",
+	"city": "Castellet",
+	"length": "3.841km",
+	"width": "10m-12m",
+	"corner": "11",
+	"pitboxes": "36",
+	"run": "clockwise"
+}

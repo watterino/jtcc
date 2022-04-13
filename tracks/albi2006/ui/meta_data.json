@@ -1,0 +1,17 @@
+{
+   "downloadURL": "http://www.mediafire.com/file/0772zkf1fwrwslb/Albi_2006_v1.2_a_NeelJ_by_Rainmaker.7z/file",
+   "notes": "",
+   "checksums": [
+      {
+         "filepath": "content/tracks/albi2006/albi2006.kn5",
+         "layout": "",
+         "checksum": "db58fed4e503f4c52336a39eb587e3d8"
+      },
+      {
+         "filepath": "content/tracks/albi2006/albi2006walls.kn5",
+         "layout": "",
+         "checksum": "a12ee07343612a19bf00ee94a6f24b77"
+      }
+   ],
+   "layouts": {}
+}

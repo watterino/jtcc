@@ -1,0 +1,21 @@
+{
+  "name": "Dijon-Prenois Short",
+  "description": "Circuit de Dijon-Prenois",
+  "tags": [
+    "circuit"
+  ],
+  "country": "France",
+  "city": "Dijon-Prenois",
+  "length": "3.289 m",
+  "width": "8 m",
+  "pitboxes": "24",
+  "run": "clockwise",
+  "author": "Rainmaker, gunnar333",
+  "version": "2.01",
+  "url": "http://www.mediafire.com/download/dcjkjactklhq2di/Dijon-Prenois+2005+v1.0.7z",
+  "year": 2016,
+  "geotags": [
+    "47.3625° N",
+    "4.8992° E"
+  ]
+}

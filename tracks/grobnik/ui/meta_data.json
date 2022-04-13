@@ -1,0 +1,19 @@
+{
+   "downloadURL": "https://www.racedepartment.com/downloads/automotodrom-grobnik.4835/download",
+   "notes": "",
+   "checksums": [
+      {
+         "filepath": "content/tracks/grobnik/grobnik.kn5",
+         "layout": "",
+         "checksum": "de8a0ba29307d1da74000eb5e6b8078a"
+      }
+   ],
+   "layouts": {
+      "": {
+         "splineCalculationDistance": 3,
+         "splineCalculationMaxSpeed": 50,
+         "splineCalculationMaxDistance": 4,
+         "SectorPositions": null
+      }
+   }
+}

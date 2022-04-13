@@ -1,0 +1,12 @@
+{
+	"name": "Estoril No chicane",
+	"description": "Circuito de Estoril",
+	"tags" : ["circuit","original","Portugal", "no chicane"],
+	"geotags": ["lat", "lon"],
+	"country": "Potrugal",
+	"city": "Estoril",
+	"length": "4130m",
+	"width": "10m-18m",
+	"pitboxes": "30",
+	"run": "clockwise"
+}

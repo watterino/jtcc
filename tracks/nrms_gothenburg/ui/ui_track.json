@@ -1,0 +1,25 @@
+{
+  "name": "Gothenburg City Race",
+  "description": "The G&#246;teborg City Race is a temporary motor racing circuit in Gothenburg, Sweden. The circuit is located in the city centre on part of docklands called Frihamnspiren, which is usually used as a concert venue. The spectator capacity for the venue is 30,000. The venue for the race weekends is known as &quot;Eco Drive Arena&quot;, with all cars running on environmentally classed fuel.<br><br>It was inaugurated during June 2008, hosting one round of the Swedish Touring Car Championship (STCC), along with supporting races. The main event was won by Honda Racing driver Thed Bj&#246;rk. The success of the event with close to 40,000 spectators saw a return. On 11 February 2010, touringcartimes.com reported that Sport &amp; Evenemang has secured four more years of racing on the street circuit.<br><br>In 2012, the STCC was replaced by the TTA – Racing Elite League. The merged STCC – Racing Elite League visited G&#246;teborg in 2013 and 2014.<br><br>The Circuit<br><br>G&#246;teborg City Circuit has a total length of 1.65 kilometres with the longest straight at approximately 650m. The two hairpins at each end of the circuit which are very wide in and out and promising good overtaking possibilities because they are the reminiscents of those at the Hockenheimring.<br><br>-taken from Wikipedia, March 2020",
+  "tags": [
+    "circuit",
+    "original",
+    "sweden",
+    "street",
+    "stcc"
+  ],
+  "geotags": [
+    "57° 43′ 48″ N",
+    "11° 58′ 39″ E"
+  ],
+  "country": "Sweden",
+  "city": "Gothenberg",
+  "length": "1,650 m",
+  "width": "???",
+  "pitboxes": "26",
+  "run": "anticlock",
+  "author": "nrms",
+  "url": null,
+  "version": "v0.8",
+  "year": 2009
+}

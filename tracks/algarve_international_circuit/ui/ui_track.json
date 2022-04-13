@@ -1,0 +1,12 @@
+{
+	"name": "Algarve International Circuit",
+	"description": "Portugal",
+	"tags" : ["circuit","Portugal","aia"],
+	"geotags": ["lat", "lon"],
+	"country": "Portugal",
+	"city": "Portimao",
+	"length": " 4300m",
+	"width": "15m-8m",
+	"pitboxes": "30",
+	"run": "clockwise"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Hungaroring",
+  "description": "Hungaroring",
+  "tags": [
+    "circuit"
+  ],
+  "geotags": [
+    "47° 35′ 52″ N",
+    "19° 15′ 05″ E"
+  ],
+  "country": "Hungary",
+  "city": "Mogyoród",
+  "length": "4381m",
+  "width": "8-12m",
+  "pitboxes": "30",
+  "run": "clockwise",
+  "year": 2021,
+  "author": "ACU, update Jim Lloyd",
+  "version": "1.2",
+  "url": null
+}

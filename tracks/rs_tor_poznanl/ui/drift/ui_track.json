@@ -1,0 +1,23 @@
+{
+  "name": "Tor Poznań - Drift",
+  "description": "Tor Poznań v1.4 - Drift",
+  "tags": [
+    "circuit",
+    "Poland",
+    "drift"
+  ],
+  "geotags": [
+    "52 25.054",
+    "16 47.855"
+  ],
+  "country": "Poland",
+  "city": "Poznan",
+  "length": "4083m",
+  "width": "12m",
+  "pitboxes": "32",
+  "run": "clockwise",
+  "year": 2021,
+  "author": "Szymik, RealAKP",
+  "version": "2.0",
+  "url": "http://rs-assets.com"
+}

@@ -1,0 +1,12 @@
+ {
+	"name": "Donington Park 2018 National RLR",
+	"description": "Donington Park National Circuit, 34 pits",
+	"tags" : ["circuit","circuit","UK"],
+	"geotags": ["lat", "lon"],
+	"country": "Great Britain",
+	"city": "Donington",
+	"length": "3.185m",
+	"width": "10m-15m",
+	"pitboxes": "34",
+	"run": "clockwise"
+}

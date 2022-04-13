@@ -1,0 +1,22 @@
+{
+  "name": "Tor Poznań",
+  "description": "Tor Poznań v2.0 (2021)",
+  "tags": [
+    "circuit",
+    "Poland"
+  ],
+  "geotags": [
+    "52 25.054",
+    "16 47.855"
+  ],
+  "country": "Poland",
+  "city": "Poznan",
+  "length": "4083m",
+  "width": "12m",
+  "pitboxes": "40",
+  "run": "clockwise",
+  "year": 2021,
+  "author": "Szymik, RealAKP",
+  "version": "2.0",
+  "url": "http://rs-assets.com"
+}

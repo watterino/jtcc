@@ -1,0 +1,12 @@
+{
+	"name": "Estoril GP",
+	"description": "Circuito de Estoril",
+	"tags" : ["circuit","original","Portugal"],
+	"geotags": ["lat", "lon"],
+	"country": "Potrugal",
+	"city": "Estoril",
+	"length": "4138m",
+	"width": "10m-18m",
+	"pitboxes": "30",
+	"run": "clockwise"
+}

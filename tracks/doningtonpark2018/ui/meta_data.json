@@ -1,0 +1,94 @@
+{
+   "downloadURL": "https://drive.google.com/file/d/1oa00mjntKrOtpWAFnaM52uiSbfdxYqBA/view",
+   "notes": "",
+   "checksums": [
+      {
+         "filepath": "content/tracks/doningtonpark2018/321.kn5",
+         "layout": "",
+         "checksum": "2782bea1409019f9ae9fc1f75ba67373"
+      },
+      {
+         "filepath": "content/tracks/doningtonpark2018/350.kn5",
+         "layout": "",
+         "checksum": "83bd348421705ff3789b24f4a97da335"
+      },
+      {
+         "filepath": "content/tracks/doningtonpark2018/924.kn5",
+         "layout": "",
+         "checksum": "538cd7f5b4f243b32828a9e70f6c86c9"
+      },
+      {
+         "filepath": "content/tracks/doningtonpark2018/doningtoncrowd.kn5",
+         "layout": "",
+         "checksum": "903935b8fe46b0d0567afca23480cf75"
+      },
+      {
+         "filepath": "content/tracks/doningtonpark2018/doningtongp.kn5",
+         "layout": "",
+         "checksum": "0cfea9e583c39193d947f1b233385587"
+      },
+      {
+         "filepath": "content/tracks/doningtonpark2018/doningtongp_ac.kn5",
+         "layout": "",
+         "checksum": "b30144a7f7f435f6cec6ae68d1b3c5ca"
+      },
+      {
+         "filepath": "content/tracks/doningtonpark2018/doningtongp_phys.kn5",
+         "layout": "",
+         "checksum": "864bc874851a666c59c44fd56d4db807"
+      },
+      {
+         "filepath": "content/tracks/doningtonpark2018/doningtongrass.kn5",
+         "layout": "",
+         "checksum": "d8ee5137a003866dc06c6553ce3d9027"
+      },
+      {
+         "filepath": "content/tracks/doningtonpark2018/doningtonnational.kn5",
+         "layout": "",
+         "checksum": "58169420a290b8ffbfd80f0040e12f81"
+      },
+      {
+         "filepath": "content/tracks/doningtonpark2018/doningtonnational_ac.kn5",
+         "layout": "",
+         "checksum": "5fd7ab48b26b26088c1298156f095f34"
+      },
+      {
+         "filepath": "content/tracks/doningtonpark2018/doningtonnational_phys.kn5",
+         "layout": "",
+         "checksum": "824efd4e4b085c848e1f6ceeb55ce913"
+      },
+      {
+         "filepath": "content/tracks/doningtonpark2018/doningtonpark2018.kn5",
+         "layout": "",
+         "checksum": "a48311f191b5fe8058989994720b35a2"
+      },
+      {
+         "filepath": "content/tracks/doningtonpark2018/doningtonpark_phys.kn5",
+         "layout": "",
+         "checksum": "7d97dc1baac783402df7f46b8a6bb39c"
+      },
+      {
+         "filepath": "content/tracks/doningtonpark2018/doningtontrees.kn5",
+         "layout": "",
+         "checksum": "5b6d038d27b9b30af97be165c685178a"
+      },
+      {
+         "filepath": "content/tracks/doningtonpark2018/grid_gp_rlr.kn5",
+         "layout": "",
+         "checksum": "6e584dbc12b428f5af1cefff094bc948"
+      },
+      {
+         "filepath": "content/tracks/doningtonpark2018/grid_nat_rlr.kn5",
+         "layout": "",
+         "checksum": "bdf030b02fd3784f69d8a147a480919b"
+      }
+   ],
+   "layouts": {
+      "gp": {
+         "splineCalculationDistance": 3,
+         "splineCalculationMaxSpeed": 40,
+         "splineCalculationMaxDistance": 4,
+         "SectorPositions": null
+      }
+   }
+}

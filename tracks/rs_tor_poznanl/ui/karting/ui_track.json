@@ -1,0 +1,23 @@
+{
+  "name": "Tor Poznań - eKart ROTAX Max Challenge POLAND",
+  "description": "Tor Poznań v2.0 (2020)",
+  "tags": [
+    "circuit",
+    "Poland",
+    "Karting"
+  ],
+  "geotags": [
+    "52 25.054",
+    "16 47.855"
+  ],
+  "country": "Poland",
+  "city": "Poznan",
+  "length": "1500m",
+  "width": "12m",
+  "pitboxes": "36",
+  "run": "clockwise",
+  "year": 2021,
+  "author": "Szymik, RealAKP",
+  "version": "2.0",
+  "url": "http://www.agnecjakartracing.pl"
+}

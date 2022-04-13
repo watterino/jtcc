@@ -1,0 +1,19 @@
+{
+   "downloadURL": "http://www.mediafire.com/file/o2ibmz5j699qw1o/Magny-Cours_v1.4_by_Rainmaker.7z/file",
+   "notes": "",
+   "checksums": [
+      {
+         "filepath": "content/tracks/magny-cours/magny-cours.kn5",
+         "layout": "",
+         "checksum": "909c425a38b6bfd8a1a982c8f22f32b2"
+      }
+   ],
+   "layouts": {
+      "": {
+         "splineCalculationDistance": 3,
+         "splineCalculationMaxSpeed": 60,
+         "splineCalculationMaxDistance": 4,
+         "SectorPositions": null
+      }
+   }
+}

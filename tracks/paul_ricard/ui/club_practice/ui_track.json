@@ -1,0 +1,12 @@
+{
+	"name": "Paul Ricard Club, Practice v0.9.7",
+	"description": "Paul Ricard Practice",
+	"tags" : ["circuit"],
+	"country": "France",
+	"city": "Castellet",
+	"length": "5.840km",
+	"width": "10m-12m",
+	"corner": "16",
+	"pitboxes": "36",
+	"run": "clockwise"
+}

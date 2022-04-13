@@ -1,0 +1,23 @@
+{
+  "name": "Slovakiaring",
+  "description": "Autodrom Orechova Poton",
+  "tags": [
+    "circuit",
+    "original",
+    "Slovakia"
+  ],
+  "geotags": [
+    "48,055123",
+    "17,565929"
+  ],
+  "country": "Slovakia",
+  "city": "Orechova Poton",
+  "length": "5922",
+  "width": "12m-20m",
+  "pitboxes": "40",
+  "run": "clockwise",
+  "year": 2019,
+  "author": "Miro Kurek",
+  "version": "1.2",
+  "url": "https://rbrtrack.blogspot.com/"
+}

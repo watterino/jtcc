@@ -1,0 +1,94 @@
+{
+   "downloadURL": "https://www.mediafire.com/file/5ywk5d6dk4j44o5/Oulton_Park_Reboot_Version_1.3.2.rar/file",
+   "notes": "",
+   "checksums": [
+      {
+         "filepath": "content/tracks/oulton_park/12.kn5",
+         "layout": "",
+         "checksum": "cfb1dad8ec9cc30b6919950dac8763fe"
+      },
+      {
+         "filepath": "content/tracks/oulton_park/fosters_groove.kn5",
+         "layout": "",
+         "checksum": "5d397d1ca90689be87852f03e224abbc"
+      },
+      {
+         "filepath": "content/tracks/oulton_park/intnochic_groove.kn5",
+         "layout": "",
+         "checksum": "1ca0e75083a50dc2a73af616a7cccdc6"
+      },
+      {
+         "filepath": "content/tracks/oulton_park/int_groove.kn5",
+         "layout": "",
+         "checksum": "4e932428a72664cbf15b21d535a33abc"
+      },
+      {
+         "filepath": "content/tracks/oulton_park/island_groove.kn5",
+         "layout": "",
+         "checksum": "e7efac3f20ff8f661012efc34cea36f1"
+      },
+      {
+         "filepath": "content/tracks/oulton_park/opcolfosters.kn5",
+         "layout": "",
+         "checksum": "c5e5738d5dfa97015dd537ca6cc48829"
+      },
+      {
+         "filepath": "content/tracks/oulton_park/opcolint.kn5",
+         "layout": "",
+         "checksum": "ea9b865656b5f304f5c8b4d2429a9e55"
+      },
+      {
+         "filepath": "content/tracks/oulton_park/opcolintnochic.kn5",
+         "layout": "",
+         "checksum": "1087b6931f957130d4baa731108fe0d8"
+      },
+      {
+         "filepath": "content/tracks/oulton_park/opcolisland.kn5",
+         "layout": "",
+         "checksum": "620066a00b74daa3e5d6299f1f52ff83"
+      },
+      {
+         "filepath": "content/tracks/oulton_park/opcrowd.kn5",
+         "layout": "",
+         "checksum": "970fd1f3cadd5be5f3fdf9ebf4b74b86"
+      },
+      {
+         "filepath": "content/tracks/oulton_park/opraceday.kn5",
+         "layout": "",
+         "checksum": "c9c7559602e1910fa8ed0d7590b57482"
+      },
+      {
+         "filepath": "content/tracks/oulton_park/optrees.kn5",
+         "layout": "",
+         "checksum": "9cad4335a321c4eda37c7a73f62f6840"
+      },
+      {
+         "filepath": "content/tracks/oulton_park/oulton_park.kn5",
+         "layout": "",
+         "checksum": "13af23deec06206de4346a145f54a6cf"
+      },
+      {
+         "filepath": "content/tracks/oulton_park/oulton_parkapexmarkers.kn5",
+         "layout": "",
+         "checksum": "248e6ebae8cdacb5f4f457f148e1b54a"
+      },
+      {
+         "filepath": "content/tracks/oulton_park/oulton_parkstartlights.kn5",
+         "layout": "",
+         "checksum": "dec771106dc3607cfe4134368a31d098"
+      },
+      {
+         "filepath": "content/tracks/oulton_park/oulton_park_audio.kn5",
+         "layout": "",
+         "checksum": "db6607393fd9cd0b22ed7a0c70de697b"
+      }
+   ],
+   "layouts": {
+      "international": {
+         "splineCalculationDistance": 3,
+         "splineCalculationMaxSpeed": 50,
+         "splineCalculationMaxDistance": 4,
+         "SectorPositions": null
+      }
+   }
+}

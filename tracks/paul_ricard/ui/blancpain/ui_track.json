@@ -1,0 +1,12 @@
+{
+	"name": "Paul Ricard BLANCPAIN v0.9.7",
+	"description": "Paul Ricard BLANCPAIN ",
+	"tags" : ["circuit"],
+	"country": "France",
+	"city": "Castellet",
+	"length": "5.752km",
+	"width": "10m-12m",
+	"corner": "13",
+	"pitboxes": "36",
+	"run": "clockwise"
+}

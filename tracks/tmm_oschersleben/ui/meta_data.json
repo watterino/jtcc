@@ -1,0 +1,84 @@
+{
+   "downloadURL": "https://cloud.zalohuj.eu/index.php/s/XSRi86C7fZmWRMz",
+   "notes": "",
+   "checksums": [
+      {
+         "filepath": "content/tracks/tmm_oschersleben/3D_staff.kn5",
+         "layout": "",
+         "checksum": "dd4b4b9afc390c575d6dadf9f9cb9475"
+      },
+      {
+         "filepath": "content/tracks/tmm_oschersleben/chicane_fix.kn5",
+         "layout": "",
+         "checksum": "7bf193e0935cdba4bebd1cb61afea2c7"
+      },
+      {
+         "filepath": "content/tracks/tmm_oschersleben/club_layout.kn5",
+         "layout": "",
+         "checksum": "bc29e73c9cc96dc8fff3f97140c7a21b"
+      },
+      {
+         "filepath": "content/tracks/tmm_oschersleben/crowd_facing.kn5",
+         "layout": "",
+         "checksum": "2ac7a276874a0a988f496421dbdf5a3e"
+      },
+      {
+         "filepath": "content/tracks/tmm_oschersleben/extra_walls.kn5",
+         "layout": "",
+         "checksum": "5f96a0d802f9b85008ee56e8e3d3433b"
+      },
+      {
+         "filepath": "content/tracks/tmm_oschersleben/gp_layout.kn5",
+         "layout": "",
+         "checksum": "fa64dc3e0e248710885ae44ba5974cc7"
+      },
+      {
+         "filepath": "content/tracks/tmm_oschersleben/grass.kn5",
+         "layout": "",
+         "checksum": "dd9fb9621fc2fa3f9f0253c82c09365a"
+      },
+      {
+         "filepath": "content/tracks/tmm_oschersleben/grooves_club.kn5",
+         "layout": "",
+         "checksum": "c8f35a5e9c885a2b26dbd27544ff670e"
+      },
+      {
+         "filepath": "content/tracks/tmm_oschersleben/grooves_gp.kn5",
+         "layout": "",
+         "checksum": "2ac570c713d6537a4fe94f62d4bb5cdb"
+      },
+      {
+         "filepath": "content/tracks/tmm_oschersleben/grooves_mt.kn5",
+         "layout": "",
+         "checksum": "7e636b1b9109389d59f7cb174594bca5"
+      },
+      {
+         "filepath": "content/tracks/tmm_oschersleben/hires_road.kn5",
+         "layout": "",
+         "checksum": "175907ad17192bb3c06c092034fa6b85"
+      },
+      {
+         "filepath": "content/tracks/tmm_oschersleben/mt_layout.kn5",
+         "layout": "",
+         "checksum": "55282893c9013498c6bcba7fd68dae24"
+      },
+      {
+         "filepath": "content/tracks/tmm_oschersleben/tmm_oschersleben.kn5",
+         "layout": "",
+         "checksum": "68118da71db22df5778d7327dd305272"
+      },
+      {
+         "filepath": "content/tracks/tmm_oschersleben/trees.kn5",
+         "layout": "",
+         "checksum": "abb0d7a6cf9a0be423d2af9ca17113ab"
+      }
+   ],
+   "layouts": {
+      "layout_gp": {
+         "splineCalculationDistance": 3,
+         "splineCalculationMaxSpeed": 90,
+         "splineCalculationMaxDistance": 100,
+         "SectorPositions": null
+      }
+   }
+}

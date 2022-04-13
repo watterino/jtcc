@@ -1,0 +1,59 @@
+{
+   "downloadURL": "https://www.racedepartment.com/downloads/bikernieki-race-track.17186/download",
+   "notes": "",
+   "checksums": [
+      {
+         "filepath": "content/tracks/bikernieki/3d_grass.kn5",
+         "layout": "",
+         "checksum": "f8a06ebf0952d39ca39bdcbf2363e3c2"
+      },
+      {
+         "filepath": "content/tracks/bikernieki/big.kn5",
+         "layout": "",
+         "checksum": "7afe1eb27357571b01016b0bfa60f540"
+      },
+      {
+         "filepath": "content/tracks/bikernieki/bikernieki.kn5",
+         "layout": "",
+         "checksum": "9dd634aaeb3769292aac4b0ac85058ec"
+      },
+      {
+         "filepath": "content/tracks/bikernieki/cones.kn5",
+         "layout": "",
+         "checksum": "bb558c422f0edec0df5eec1979d528f9"
+      },
+      {
+         "filepath": "content/tracks/bikernieki/drift_vdc.kn5",
+         "layout": "",
+         "checksum": "d7c4f48854c2635fc0a6b3bcb949123c"
+      },
+      {
+         "filepath": "content/tracks/bikernieki/open.kn5",
+         "layout": "",
+         "checksum": "6b86206bde3fb5af9d7b6155faf69334"
+      },
+      {
+         "filepath": "content/tracks/bikernieki/oval.kn5",
+         "layout": "",
+         "checksum": "d0c363aab3f96b0abe91b471eff751d0"
+      },
+      {
+         "filepath": "content/tracks/bikernieki/skill.kn5",
+         "layout": "",
+         "checksum": "b5e01380ca25880550a2a91113f0666a"
+      },
+      {
+         "filepath": "content/tracks/bikernieki/speed.kn5",
+         "layout": "",
+         "checksum": "9cac1147cc4dd19e053d6c29433dd3b1"
+      }
+   ],
+   "layouts": {
+      "speed": {
+         "splineCalculationDistance": 3,
+         "splineCalculationMaxSpeed": 45,
+         "splineCalculationMaxDistance": 4,
+         "SectorPositions": null
+      }
+   }
+}

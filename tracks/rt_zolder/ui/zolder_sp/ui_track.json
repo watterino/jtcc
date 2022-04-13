@@ -1,0 +1,16 @@
+{
+	"name":"Circuit Zolder",
+	"description":"The circuit is located in the midst of the Limburg greenery in Belgium, with its ten corners including three chicanes, the daring Sacramentsheuvel and two long straights. Circuit Zolder, also known as Circuit Terlamen, is an undulating race track with a length of 4.011 kilometres. Built in the early 60s, it has always been a challenge both for driver and car.",
+	"tags":["circuit","Belgium"],
+	"geotags":["50°59′26″N","5°15′29″E"],
+	"country":"Belgium",
+	"city":"Heusden-Zolder",
+	"length":"4011 m",
+	"width":"10 m",
+	"pitboxes":"38",
+	"run":"clockwise",
+	"year":2019,
+	"author":"Reboot Team",
+	"version":"1.01",
+	"url":"https://tm-modding.eu/reboot-team-tracks/"
+}

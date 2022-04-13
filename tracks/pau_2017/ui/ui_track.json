@@ -1,0 +1,12 @@
+{
+	"name": "Circuit de PAU",
+	"description": "Version 1.12 by Ginot Team",
+	"tags" : ["Pau"],
+	"geotags": ["lat", "lon"],
+	"country": "France",
+	"city": "Pau",
+	"length": "2766m",
+	"width": "6m-11m",
+	"pitboxes": "24",
+	"run": "clockwise"
+}

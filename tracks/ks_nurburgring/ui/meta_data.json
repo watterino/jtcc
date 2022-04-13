@@ -1,0 +1,57 @@
+{
+   "downloadURL": "",
+   "notes": "",
+   "checksums": [
+      {
+         "filepath": "content/tracks/ks_nurburgring/1.kn5",
+         "layout": "",
+         "checksum": "1e845f510b8a3c3f87415c2800f1e544"
+      },
+      {
+         "filepath": "content/tracks/ks_nurburgring/100.kn5",
+         "layout": "",
+         "checksum": "462fe73ee99284995b2e92ad099b1549"
+      },
+      {
+         "filepath": "content/tracks/ks_nurburgring/2.kn5",
+         "layout": "",
+         "checksum": "ddf7daeb5f59ef210f9f18a26b0908f2"
+      },
+      {
+         "filepath": "content/tracks/ks_nurburgring/3.kn5",
+         "layout": "",
+         "checksum": "3e2a0df6f44f59d7087dcf3beacf5be8"
+      },
+      {
+         "filepath": "content/tracks/ks_nurburgring/4.kn5",
+         "layout": "",
+         "checksum": "bd932f403bbdb9b40572404702eaca62"
+      },
+      {
+         "filepath": "content/tracks/ks_nurburgring/5.kn5",
+         "layout": "",
+         "checksum": "17459dff25c670496407407f1c8a124d"
+      },
+      {
+         "filepath": "content/tracks/ks_nurburgring/7.kn5",
+         "layout": "",
+         "checksum": "e14aa50d48f36bf72757df8a97436986"
+      },
+      {
+         "filepath": "content/tracks/ks_nurburgring/8.kn5",
+         "layout": "",
+         "checksum": "521eaffbd8c6faea574d7e39323668f2"
+      },
+      {
+         "filepath": "content/tracks/ks_nurburgring/9.kn5",
+         "layout": "",
+         "checksum": "cc93c42228975e6569fcb24049a35ae9"
+      },
+      {
+         "filepath": "content/tracks/ks_nurburgring/ks_nurburgring.kn5",
+         "layout": "",
+         "checksum": "7d9bfb1fb349e607471d3e450878257d"
+      }
+   ],
+   "layouts": {}
+}

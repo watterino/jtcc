@@ -1,0 +1,12 @@
+{
+	"name": "Grobnik",
+	"description": "Automotodrom Grobnik",
+	"tags" : ["Grobnik", "Automotodrom Grobnik"],
+	"geotags": ["lat", "lon"],
+	"country": "Croatia",
+	"city": "Rijeka",
+	"length": "4.169m",
+	"width": "10m-15m",
+	"pitboxes": "28",
+	"run": "anti-clockwise"
+}

@@ -1,0 +1,74 @@
+{
+   "downloadURL": "https://www.racedepartment.com/downloads/circuito-de-la-comunidad-valenciana-ricardo-tormo.39527/download",
+   "notes": "",
+   "checksums": [
+      {
+         "filepath": "content/tracks/valenciart/accubes.kn5",
+         "layout": "",
+         "checksum": "9f603bcb5aac22f5d6f2bcc4368f54b8"
+      },
+      {
+         "filepath": "content/tracks/valenciart/armco-sponsors-wall.kn5",
+         "layout": "",
+         "checksum": "43cb5aeb29b0f7755327f1e9bfcb58e7"
+      },
+      {
+         "filepath": "content/tracks/valenciart/background.kn5",
+         "layout": "",
+         "checksum": "233f6479c5ca5041f8d1fd86f5769a72"
+      },
+      {
+         "filepath": "content/tracks/valenciart/buildings.kn5",
+         "layout": "",
+         "checksum": "2f749bfc0528b6aa0c7e46438e51b746"
+      },
+      {
+         "filepath": "content/tracks/valenciart/crowds.kn5",
+         "layout": "",
+         "checksum": "d1ae87f26ce2fa4ada2c8113b869422d"
+      },
+      {
+         "filepath": "content/tracks/valenciart/others.kn5",
+         "layout": "",
+         "checksum": "16c25430c99d8df6c6ccdf26ffcc2c8b"
+      },
+      {
+         "filepath": "content/tracks/valenciart/phy.kn5",
+         "layout": "",
+         "checksum": "0fdfef59c41f4540289cf5c634340059"
+      },
+      {
+         "filepath": "content/tracks/valenciart/skids.kn5",
+         "layout": "",
+         "checksum": "232ad00a70eafafaeef0d77dce6557c3"
+      },
+      {
+         "filepath": "content/tracks/valenciart/timer_hotlap.kn5",
+         "layout": "",
+         "checksum": "7f7b0d17817fe8d39a747f2655dca73d"
+      },
+      {
+         "filepath": "content/tracks/valenciart/valenciart.kn5",
+         "layout": "",
+         "checksum": "d3418ef2c8c25182ff5ba0be94f47fb3"
+      },
+      {
+         "filepath": "content/tracks/valenciart/vegetation.kn5",
+         "layout": "",
+         "checksum": "d01d001bbb1a672e2729a4ad951869e0"
+      },
+      {
+         "filepath": "content/tracks/valenciart/vehicles.kn5",
+         "layout": "",
+         "checksum": "152c62cd261c9d4efdbc1ea12232750c"
+      }
+   ],
+   "layouts": {
+      "": {
+         "splineCalculationDistance": 1,
+         "splineCalculationMaxSpeed": 50,
+         "splineCalculationMaxDistance": 1000,
+         "SectorPositions": null
+      }
+   }
+}

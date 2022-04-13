@@ -1,0 +1,19 @@
+{
+   "downloadURL": "https://www.racedepartment.com/downloads/monaco-gp-trackcams.11200/download",
+   "notes": "",
+   "checksums": [
+      {
+         "filepath": "content/tracks/monaco_osrw_1.1/monaco_osrw_1.1.kn5",
+         "layout": "",
+         "checksum": "c2c3881e7773bf527332ba336bab9594"
+      }
+   ],
+   "layouts": {
+      "": {
+         "splineCalculationDistance": 3,
+         "splineCalculationMaxSpeed": 30,
+         "splineCalculationMaxDistance": 10,
+         "SectorPositions": null
+      }
+   }
+}

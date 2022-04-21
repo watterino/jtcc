@@ -30,29 +30,62 @@
 
 .dropdown-menu {
   background-color: black !important;
+  border: 1px solid #57FFD7;
   border-radius: 0px;
+  border-width: 0px 0px 4px 0px;
+  border-top-width: 0px;
   padding: 0;
+}
+
+.dropdown-header {
+  padding-left: 6px;
 }
 
 .dropdown-item {
   color: white;
   font-weight: 700;
   background: black;
-  padding-top: 6px;
-  padding-bottom: 6px;
+  padding: .45rem 1.5rem;
+  transition: 0.2s all cubic-bezier(.23,1,.32,1)
 }
 
 .dropdown-item:hover {
-  background: linear-gradient(200deg, #21FAFA 0%, #01FFCC 100%);
-  color: black;
+  background: black;
+  color: #57FFD7;
+  letter-spacing: .05rem;
+  text-indent: -.05rem;
 }
 
 .dropdown-divider {
   margin: 0;
+  border-top: 1px solid #57FFD7;
 }
 
-.dropdown-header {
-  padding-left: 6px;
+.dropdown-menu.show {
+  animation: fadeIn 300ms cubic-bezier(.23,1,.32,1);
+  transform-origin: top center;
+}
+.dropdown-menu.show .dropdown-item {
+  animation: slideOut 300ms cubic-bezier(.08,.82,.17,1);
+  transform-origin: top center;
+}
+
+@keyframes slideOut {
+  0% {
+    padding: .1rem 1.5rem;
+  }
+  100% {
+    padding: .45rem 1.5rem;
+  }
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 /* ======== kolory ======== */

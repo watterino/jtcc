@@ -26,6 +26,10 @@
   background-color: black !important;
 }
 
+.badge {
+  padding: .4em, .4em;
+}
+
 /* ======== dropdown ======== */
 
 .dropdown-menu {
@@ -46,14 +50,21 @@
   font-weight: 700;
   background: black;
   padding: .45rem 1.5rem;
-  transition: 0.2s all cubic-bezier(.23,1,.32,1)
+  transition: 0.5s letter-spacing cubic-bezier(.08,.82,.17,1), 50ms background-color ease-out;
 }
 
 .dropdown-item:hover {
   background: black;
   color: #57FFD7;
+}
+
+.dropdown-item:active, .dropdown-item:focus {
+  /*
   letter-spacing: .05rem;
   text-indent: -.05rem;
+  */
+  background-color: black;
+  color: #57FFD7;
 }
 
 .dropdown-divider {
@@ -88,16 +99,163 @@
   }
 }
 
-/* ======== kolory ======== */
+/* ======== buttons ======== */
 
-.text-primary, a:not(.btn):not(.nav-link):not(.navbar-brand):not(.dropdown-item):not(.text-white):not(.text-danger):not(.fc-event):not(.page-link) {
-  border-color: #3DB296;
+.btn {
+  border-width: 0 0 4px 0;
+  border-radius: 0rem;
+  transition: background-color 0.2s ease-out, border-color 0.2s, ease-out;
 }
 
-.bg-primary, .btn-primary, .badge-primary {
-  border-color: #3DB296;
-  background-color: #57FFD7 !important;
-  color: black !important;
+.btn:not(.disabled):hover {
+  margin-top: 1px;
+  border-bottom-width: 3px;
+}
+
+.btn:not(.disabled):active {
+  margin-top: 3px;
+  border-bottom-width: 1px;
+}
+
+/* ======== colors ======== */
+
+:root {
+  --primary: #0FFFFF;
+  --secondary: #EEEEEE;
+  --success: #8BFD00;
+  --info: #B569B5;
+  --warning: #FFB70F;
+  --danger: #FF202F;
+  --light: #FFFFFF;
+  --dark: #555;
+  --font-family-sans-serif:  "Open Sans",-apple-system,BlinkMacSystemFont,Roboto,"Helvetica Neue",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
+/* buttons */
+
+.btn-success {
+  color: black;
+  background-color: #8BFD00;
+  border-color: #87F500;
+}
+
+.btn-success:hover {
+  color: black;
+  background-color: #87F500;
+  border-color: #7BE000;
+}
+
+.btn-success:not(:disabled):not(.disabled):active, .btn-success:not(:disabled):not(.disabled).active, .show > .btn-success.dropdown-toggle {
+  color: black;
+  background-color: #7BE000;
+  border-color: #70CC00;
+}
+
+.btn-primary {
+  color: black;
+  background-color: #0FFFFF;
+  border-color: #0AFFFF;
+}
+
+.btn-primary:hover {
+  color: black;
+  background-color: #0AFFFF;
+  border-color: #00F5F5;
+}
+
+.btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active, .show > .btn-primary.dropdown-toggle {
+  color: black;
+  background-color: #00F5F5;
+  border-color: #00E0E0;
+}
+
+.btn-warning {
+  color: black;
+  background-color: #FFB70F;
+  border-color: #FFB60A;
+}
+
+.btn-warning:hover {
+  color: black;
+  background-color: #FFB60A;
+  border-color: #F5AB00;
+}
+
+.btn-warning:not(:disabled):not(.disabled):active, .btn-warning:not(:disabled):not(.disabled).active, .show > .btn-warning.dropdown-toggle {
+  color: black;
+  background-color: #F5AB00;
+  border-color: #E09D00;
+}
+
+.btn-info {
+  color: white;
+  background-color: #D7ADD7;
+  border-color: #D09FD0;
+}
+
+.btn-info:hover {
+  color: white;
+  background-color: #D09FD0;
+  border-color: #C992C9;
+}
+
+.btn-info:not(:disabled):not(.disabled):active, .btn-info:not(:disabled):not(.disabled).active, .show > .btn-info.dropdown-toggle {
+  color: white;
+  background-color: #C992C9;
+  border-color: #C284C2;
+}
+
+.btn-danger {
+  color: white;
+  background-color: #FF202F;
+  border-color: #F50010;
+}
+
+.btn-danger:hover {
+  color: white;
+  background-color: #F50010;
+  border-color: #E0000F;
+}
+
+.btn-danger:not(:disabled):not(.disabled):active, .btn-danger:not(:disabled):not(.disabled).active, .show > .btn-danger.dropdown-toggle {
+  color: white;
+  background-color: #E0000F;
+  border-color: #CC000E;
+}
+
+.btn-secondary {
+  color: black;
+  background-color: #EEEEEE;
+  border-color: #EBEBEB;
+}
+
+.btn-secondary:hover {
+  color: black;
+  background-color: #EBEBEB;
+  border-color: #E0E0E0;
+}
+
+.btn-secondary:not(:disabled):not(.disabled):active, .btn-secondary:not(:disabled):not(.disabled).active, .show > .btn-secondary.dropdown-toggle {
+  color: black;
+  background-color: #E0E0E0;
+  border-color: #D6D6D6;
+}
+
+/* badges */
+
+.badge-danger {
+  background-color: #FF202F;
+}
+
+/* text */
+
+.text-success {
+  color: #8BFD00 !important;
+}
+
+a.text-success:hover, a.text-success:focus {
+  color: #7BE000 !important;
 }
 
 #event-title:hover {
@@ -114,9 +272,5 @@ a.card h3 {
 
 body {
   background-color: black;
-  font-family: "Open Sans",-apple-system,BlinkMacSystemFont,Roboto,"Helvetica Neue",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
-}
-
-.tooltip {
   font-family: "Open Sans",-apple-system,BlinkMacSystemFont,Roboto,"Helvetica Neue",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
 }

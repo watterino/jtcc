@@ -271,6 +271,7 @@ a.card h3 {
 }
 
 body {
+  padding-top: 84px;
   background-color: black;
   font-family: "Open Sans",-apple-system,BlinkMacSystemFont,Roboto,"Helvetica Neue",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
 }

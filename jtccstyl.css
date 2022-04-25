@@ -1,12 +1,12 @@
 /* ======== navbar ======== */
 
+/* animation trigger for javascript */
 .navbar {
   animation-name: navbarReady;
-  animation-duration: 100ms;
+  animation-duration: 0.1ms;
 }
-
 @keyframes navbarReady {  
-  from { opacity:0; }
+  from { opacity:0.99; }
   to { opacity:1; }  
 }
 

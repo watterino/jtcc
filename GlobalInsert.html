@@ -1,0 +1,16 @@
+<script>
+//Make navbar container 'container-fluid' on all pages. 
+document.addEventListener("animationstart", function(e) {
+    if (e.animationName == "navbarReady") { //CSS animation triggered right after the navbar loads
+        var navbar = document.getElementsByClassName('navbar navbar-expand-lg fixed-top navbar-dark bg-primary');
+        navbar[0].innerHTML = navbar[0].innerHTML.replace(/container(?!-)/gs,'container-fluid'); //regex match to not replace other classes
+    }
+}, false);
+</script>
+
+<div style="text-align: center; background-color: #0FFFFF; margin-bottom: 20px;">
+    <marquee>
+        <p style="color: black; margin: 0;">Ta strona jest w <strong>budowie!!!!</strong> Jak ją odkryłeś to daj nam znać ok ok
+        </p>
+    </marquee>
+</div>

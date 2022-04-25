@@ -2,11 +2,11 @@
 
 .navbar {
   animation-name: navbarReady;
-  animation-duration: 300ms;
+  animation-duration: 100ms;
 }
 
 @keyframes navbarReady {  
-  from { opacity:1; }
+  from { opacity:0; }
   to { opacity:1; }  
 }
 

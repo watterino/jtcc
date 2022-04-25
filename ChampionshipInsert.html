@@ -1,0 +1,72 @@
+<script>
+//Hide useless tabs for now. Later we can tweak them so they show proper scores.
+var overviewTab = document.getElementById('overview-tab');
+var PointsRefTab = document.getElementById('points-tab');
+overviewTab.style.display = 'none';
+overviewTab.style.visibility = 'hidden';
+PointsRefTab.style.display = 'none';
+PointsRefTab.style.visibility = 'hidden';
+
+//Insert two additional tables
+nav = document.getElementsByClassName('nav nav-tabs');
+nav[0].insertAdjacentHTML("beforeend",'<li class="nav-item"><a class="nav-link " id="constructors-tab" data-toggle="tab" href="#constructors" role="tab" aria-controls="constructors" aria-selected="false">Constructors</a></li><li class="nav-item"><a class="nav-link " id="test-tab" data-toggle="tab" href="#test2" role="tab" aria-controls="test2" aria-selected="false">Test #2</a></li>');
+
+tab = document.getElementsByClassName('tab-content');
+tab[0].insertAdjacentHTML("beforeend",'<div id="constructors" class="tab-pane fade" role="tabpanel" aria-labelledby="constructors-tab"><div class="table-responsive entrant-table-max-height"><table class="table table-bordered table-striped"><tbody><tr><th>#</th><th>Driver</th><th>Team</th><th>Points</th></tr><tr><td>1</td><td>wat.</td><td>Team Zajebisty</td><td>10</td></tr></tbody></table></div></div><div id="test2" class="tab-pane fade" role="tabpanel" aria-labelledby="test2-tab"><div  class="table-responsive entrant-table-max-height"><table class="table table-bordered table-striped"><tbody><tr> <th>#</th><th>Driver</th><th>Team</th><th>Points</th></tr><tr><td>1</td><td>wat.</td><td>Team Zajebisty</td><td>10</td></tr></tbody></table></div></div>');
+</script>
+
+<!-- Non-minified version of both inserts:
+
+    <li class="nav-item">
+        <a class="nav-link active" id="drivers-tab" data-toggle="tab" href="#test" role="tab" aria-controls="test" aria-selected="true">
+            Test
+        </a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" id="teams-tab" data-toggle="tab" href="#test2" role="tab" aria-controls="test2" aria-selected="false">
+            Test #2
+        </a>
+    </li>
+
+
+    <div id="test" class="tab-pane fade" role="tabpanel" aria-labelledby="test-tab">
+        <div  class="table-responsive entrant-table-max-height">
+            <table class="table table-bordered table-striped">
+                <tbody>
+                    <tr> 
+                        <th>#</th>
+                        <th>Driver</th>
+                        <th>Team</th>
+                        <th>Points</th>
+                    </tr>
+                    <tr>
+                        <td>1</td>
+                        <td>wat.</td>
+                        <td>Team Zajebisty</td>
+                        <td>10</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <div id="test2" class="tab-pane fade" role="tabpanel" aria-labelledby="test2-tab">
+        <div  class="table-responsive entrant-table-max-height">
+            <table class="table table-bordered table-striped">
+                <tbody>
+                    <tr> 
+                        <th>#</th>
+                        <th>Driver</th>
+                        <th>Team</th>
+                        <th>Points</th>
+                    </tr>
+                    <tr>
+                        <td>1</td>
+                        <td>wat.</td>
+                        <td>Team Zajebisty</td>
+                        <td>10</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+-->

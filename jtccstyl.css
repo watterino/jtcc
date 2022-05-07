@@ -1,12 +1,12 @@
 /* ======== navbar ======== */
 
-/* animation trigger for javascript */
 .navbar {
   animation-name: navbarReady;
   animation-duration: 0.1ms;
 }
+
 @keyframes navbarReady {  
-  from { opacity:0.99; }
+  from { opacity:0; }
   to { opacity:1; }  
 }
 
@@ -36,6 +36,10 @@
   background-color: black !important;
 }
 
+.dropdown-toggle::after {
+  vertical-align: .2em;
+}
+
 .badge {
   padding: .4em, .4em;
 }
@@ -43,6 +47,7 @@
 /* ======== dropdown ======== */
 
 .dropdown-menu {
+  font-size: .95rem;
   background-color: black !important;
   border: 1px solid #57FFD7;
   border-radius: 0px;
@@ -57,10 +62,9 @@
 
 .dropdown-item {
   color: white;
-  font-weight: 700;
+  font-weight: 500;
   background: black;
   padding: .45rem 1.5rem;
-  transition: 0.5s letter-spacing cubic-bezier(.08,.82,.17,1), 50ms background-color ease-out;
 }
 
 .dropdown-item:hover {
@@ -138,7 +142,7 @@
   --danger: #FF202F;
   --light: #FFFFFF;
   --dark: #555;
-  --font-family-sans-serif:  "Open Sans",-apple-system,BlinkMacSystemFont,Roboto,"Helvetica Neue",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  --font-family-sans-serif:  "Inter",-apple-system,BlinkMacSystemFont,Roboto,"Helvetica Neue",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
   --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
@@ -283,5 +287,5 @@ a.card h3 {
 body {
   padding-top: 84px;
   background-color: black;
-  font-family: "Open Sans",-apple-system,BlinkMacSystemFont,Roboto,"Helvetica Neue",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  font-family: "Inter",-apple-system,BlinkMacSystemFont,Roboto,"Helvetica Neue",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
 }

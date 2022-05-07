@@ -1,16 +1,70 @@
 <script>
-//Make navbar container 'container-fluid' on all pages. 
+//Apply page tweaks after css animation trigger. 
 document.addEventListener("animationstart", function(e) {
-    if (e.animationName == "navbarReady") { //CSS animation triggered right after the navbar loads
-        var navbar = document.getElementsByClassName('navbar navbar-expand-lg fixed-top navbar-dark bg-primary');
-        navbar[0].innerHTML = navbar[0].innerHTML.replace(/container(?!-)/gs,'container-fluid'); //regex match to not replace other classes
+    if (e.animationName == "navbarReady") {
+        document.getElementsByClassName('container')[0].attributes[0].textContent = 'container-fluid'; //Make navbar width responsive
+
+        //Various navbar tweaks
+        var navbarItems = document.querySelectorAll('li.nav-item');
+        navbarItems[0].remove(); //Remove Races navlink
+        navbarItems[3].innerHTML = '<a class="nav-link" href="/championships">Championship</a>'; //Modify championship link to be direct.
+        navbarItems[1].before(navbarItems[3]); //before Results insert Championships
+        navbarItems[1].after(navbarItems[4]); //after Calendar insert Content
+        if (navbarItems[5].innerText == 'Server ') navbarItems[5].insertAdjacentHTML('afterend','<li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" id="navBarHiddenDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Ukryte opcje</a><div class="dropdown-menu" aria-labelledby="navBarHiddenDropdown"><a class="dropdown-item" href="/quick">Quick Race</a><a class="dropdown-item" href="/custom">Custom Races</a><a class="dropdown-item" href="/race-weekends">Race Weekends</a></div></li>'); //If Server tab exists add hidden options tab
+        document.getElementById('user-account-dropdown').insertAdjacentHTML('beforebegin','<li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" id="navBarResourcesDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Resources</a><div class="dropdown-menu" aria-labelledby="navBarResourcesDropdown"><a class="dropdown-item" href="https://arbazmotorsport.pl/static/Regulamin.pdf">Regulations</a><a class="dropdown-item" href="https://arbazmotorsport.pl">Main website</a><a class="dropdown-item" href="https://www.memecreator.org/static/images/memes/5305154.jpg">Diego</a></div></li><li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" id="navBarSocialsDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Socials</a><div class="dropdown-menu" aria-labelledby="navBarSocialsDropdown"><a class="dropdown-item" href="https://twitter.com/arbazmotorsport">Twitter</a><a class="dropdown-item" href="https://www.twitch.tv/arbazmotorsport">Twitch</a><a class="dropdown-item" href="https://discord.gg/USa8Kdgn93">Discord</a></div></li>'); //Add resources and socials dropdownst
+        if (document.querySelector('h2').innerText == 'Races') {
+            var mainContent = document.getElementsByClassName('container')[0];
+            mainContent.innerHTML = '';
+            document.getElementsByClassName('container')[0].attributes[0].textContent = 'container-fluid';
+        }
     }
 }, false);
 </script>
 
-<div style="text-align: center; background-color: #0FFFFF; margin-bottom: 20px;">
+<div style="text-align: center; background-color: #57FFD7; margin-bottom: 20px;">
     <marquee>
-        <p style="color: black; margin: 0;">Ta strona jest w <strong>budowie!!!!</strong> Jak ją odkryłeś to daj nam znać ok ok
-        </p>
+        <p style="color: black; margin: 0;">Ta strona jest w <strong>budowie!!!!</strong> Jak ją odkryłeś to daj nam znać ok ok</p>
     </marquee>
 </div>
+
+<!-- Non-minified socials dropdown
+
+<li class="nav-item dropdown">
+    <a class="nav-link dropdown-toggle" href="#" id="navBarSocialsDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        Socials
+    </a>
+    <div class="dropdown-menu" aria-labelledby="navBarSocialsDropdown">
+        <a class="dropdown-item" href="https://twitter.com/arbazmotorsport">Twitter</a>
+        <a class="dropdown-item" href="https://www.twitch.tv/arbazmotorsport">Twitch</a>
+        <a class="dropdown-item" href="https://discord.gg/USa8Kdgn93">Discord</a>
+    </div>
+</li>
+
+Non-minified Resources dropdown
+
+<li class="nav-item dropdown">
+    <a class="nav-link dropdown-toggle" href="#" id="navBarResourcesDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        Resources
+    </a>
+    <div class="dropdown-menu" aria-labelledby="navBarResourcesDropdown">
+        <a class="dropdown-item" href="https://arbazmotorsport.pl/static/Regulamin.pdf">Regulations</a>
+        <a class="dropdown-item" href="https://arbazmotorsport.pl">Main website</a>
+        <a class="dropdown-item" href="https://www.memecreator.org/static/images/memes/5305154.jpg">Diego</a>
+    </div>
+</li>
+
+Non-minified Hidden options dropdown
+
+<li class="nav-item dropdown">
+    <a class="nav-link dropdown-toggle" href="#" id="navBarHiddenDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        Ukryte opcje
+    </a>
+    <div class="dropdown-menu" aria-labelledby="navBarHiddenDropdown">
+        <a class="dropdown-item" href="/quick">Quick Race</a>
+        <a class="dropdown-item" href="/custom">Custom Races</a>
+        <a class="dropdown-item" href="/race-weekends">Race Weekends</a>
+    </div>
+</li>
+
+
+-->

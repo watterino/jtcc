@@ -1,21 +1,66 @@
-<script>
-//Apply page tweaks after css animation trigger. 
-document.addEventListener("animationstart", function(e) {
-    if (e.animationName == "navbarReady") {
-        document.getElementsByClassName('container')[0].attributes[0].textContent = 'container-fluid'; //Make navbar width responsive
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+<link href="https://www.arbazmotorsport.pl/static/jtccstyl.css" rel="stylesheet">
+<style>
+    .navbar {
+    animation: navbarReady 0.01ms;
+    }
 
-        //Various navbar tweaks
-        var navbarItems = document.querySelectorAll('li.nav-item');
+    @keyframes navbarReady {  
+    from { opacity:1; }
+    to { opacity:1; }
+    }
+
+    .container, .container-fluid, .landing-page {
+    opacity: 0;
+    animation: containerReady 200ms ease-in-out forwards;
+    }
+
+    .landing-page, .navbar-container {
+	width: 100%;
+	padding-right: 15px;
+	padding-left: 15px;
+	margin-right: auto;
+	margin-left: auto;
+    }
+
+    .navbar-container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    }
+
+    @media screen and (min-width: 992px) {
+        .navbar-container {
+        flex-wrap: nowrap;
+        }
+    }
+
+    @keyframes containerReady {  
+    from { opacity:0; }
+    to { opacity:1; }  
+    }
+
+</style>
+<script>
+//Trigger page tweaks with css animation trigger. 
+document.addEventListener("animationstart", function(e) {
+    if (e.animationName == 'navbarReady') {
+        e.target.children[0].className = 'navbar-container'; //Make navbar width responsive
+        var navbarItems = e.target.querySelectorAll('li.nav-item'); //variable for tidyness
         navbarItems[0].remove(); //Remove Races navlink
         navbarItems[3].innerHTML = '<a class="nav-link" href="/championships">Championship</a>'; //Modify championship link to be direct.
         navbarItems[1].before(navbarItems[3]); //before Results insert Championships
         navbarItems[1].after(navbarItems[4]); //after Calendar insert Content
-        if (navbarItems[5].innerText == 'Server ') navbarItems[5].insertAdjacentHTML('afterend','<li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" id="navBarHiddenDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Ukryte opcje</a><div class="dropdown-menu" aria-labelledby="navBarHiddenDropdown"><a class="dropdown-item" href="/quick">Quick Race</a><a class="dropdown-item" href="/custom">Custom Races</a><a class="dropdown-item" href="/race-weekends">Race Weekends</a></div></li>'); //If Server tab exists add hidden options tab
-        document.getElementById('user-account-dropdown').insertAdjacentHTML('beforebegin','<li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" id="navBarResourcesDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Resources</a><div class="dropdown-menu" aria-labelledby="navBarResourcesDropdown"><a class="dropdown-item" href="https://arbazmotorsport.pl/static/Regulamin.pdf">Regulations</a><a class="dropdown-item" href="https://arbazmotorsport.pl">Main website</a><a class="dropdown-item" href="https://www.memecreator.org/static/images/memes/5305154.jpg">Diego</a></div></li><li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" id="navBarSocialsDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Socials</a><div class="dropdown-menu" aria-labelledby="navBarSocialsDropdown"><a class="dropdown-item" href="https://twitter.com/arbazmotorsport">Twitter</a><a class="dropdown-item" href="https://www.twitch.tv/arbazmotorsport">Twitch</a><a class="dropdown-item" href="https://discord.gg/USa8Kdgn93">Discord</a></div></li>'); //Add resources and socials dropdownst
-        if (document.querySelector('h2').innerText == 'Races') {
-            var mainContent = document.getElementsByClassName('container')[0];
-            mainContent.innerHTML = '';
-            document.getElementsByClassName('container')[0].attributes[0].textContent = 'container-fluid';
+        if (document.body.className == 'user-group-admin') navbarItems[5].insertAdjacentHTML('afterend','<li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" id="navBarHiddenDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Ukryte opcje</a><div class="dropdown-menu" aria-labelledby="navBarHiddenDropdown"><a class="dropdown-item" href="/quick">Quick Race</a><a class="dropdown-item" href="/custom">Custom Races</a><a class="dropdown-item" href="/race-weekends">Race Weekends</a></div></li>'); //If Server tab exists add hidden options tab
+        document.getElementById('user-account-dropdown').insertAdjacentHTML('beforebegin','<li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" id="navBarResourcesDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Resources</a><div class="dropdown-menu" aria-labelledby="navBarResourcesDropdown"><a class="dropdown-item" href="https://arbazmotorsport.pl/static/Regulamin.pdf">Regulations</a><a class="dropdown-item" href="https://arbazmotorsport.pl">Main website</a><a class="dropdown-item" href="https://www.memecreator.org/static/images/memes/5305154.jpg">Diego</a></div></li><li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" id="navBarSocialsDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Socials</a><div class="dropdown-menu" aria-labelledby="navBarSocialsDropdown"><a class="dropdown-item" href="https://twitter.com/arbazmotorsport">Twitter</a><a class="dropdown-item" href="https://www.twitch.tv/arbazmotorsport">Twitch</a><a class="dropdown-item" href="https://discord.gg/USa8Kdgn93">Discord</a></div></li>'); //Add resources and socials dropdowns
+    } 
+    else if (e.animationName == "containerReady") {
+        if (e.target.querySelector('h2').textContent == 'Races') { //If it's the landing page
+            e.target.innerHTML = '<h1>Witaj w strefie Arbaz</h1>';
+            e.target.className = 'landing-page';
         }
     }
 }, false);

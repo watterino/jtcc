@@ -1,6 +1,7 @@
 <script>
-//Insert two additional tables
 var navTabs = document.getElementsByClassName('nav-tabs')[0];
+navTabs.insertAdjacentHTML('beforebegin','<h2 class="standings-header">Standings</h2><p class="standings-header">Zapoznaj się z obecnymi wynikami.</p>')
+//Insert two additional tables
 navTabs.children[1].insertAdjacentHTML('afterend','<li class="nav-item"><a class="nav-link " id="constructors-tab" data-toggle="tab" href="#constructors" role="tab" aria-controls="constructors" aria-selected="false">Constructors</a></li>');
 navTabs.children[3].insertAdjacentHTML('afterend','<li class="nav-item"><a class="nav-link " id="test-tab" data-toggle="tab" href="#sprints" role="tab" aria-controls="sprints" aria-selected="false">Sprints</a></li>');
 navTabs.children[3].children[0].innerText = 'Races';

@@ -134,12 +134,21 @@
   border-style: none;
 }
 
-.nav-tabs, .tab-content {
+.nav-tabs:not(#myTab), .tab-content:not(.sessions, #myTabContent), .standings-header {
 	position: relative;
 	left: 50%;
 	margin-left: -46vw;
 	width: 92vw;
-    }
+}
+
+.tab-content:not(.sessions, #myTabContent), .text-center {
+  overflow: auto;
+  margin-bottom: 3rem;
+}
+
+.nav-tabs {
+  overflow: hidden;
+}
 
 .nav-item {
   flex-grow: 1;
@@ -152,10 +161,6 @@
 
 .tab-pane {
   min-width: 48rem;
-}
-
-.tab-content {
-  overflow: auto;
 }
 
 .modal-dialog {

@@ -1,12 +1,16 @@
 <script>
+document.getElementsByClassName('progress')[0].remove(); //Remove progressbar
 var navTabs = document.getElementsByClassName('nav-tabs')[0];
-navTabs.insertAdjacentHTML('beforebegin','<h2 class="standings-header">Standings</h2><p class="standings-header">Zapoznaj się z obecnymi wynikami.</p>')
+navTabs.children[2].remove();
+navTabs.insertAdjacentHTML('beforebegin','<h2 class="standings-header">Standings</h2><p class="standings-header">Nwm co tu napisać.</p>');
 //Insert two additional tables
-navTabs.children[1].insertAdjacentHTML('afterend','<li class="nav-item"><a class="nav-link " id="constructors-tab" data-toggle="tab" href="#constructors" role="tab" aria-controls="constructors" aria-selected="false">Constructors</a></li>');
-navTabs.children[3].insertAdjacentHTML('afterend','<li class="nav-item"><a class="nav-link " id="test-tab" data-toggle="tab" href="#sprints" role="tab" aria-controls="sprints" aria-selected="false">Sprints</a></li>');
-navTabs.children[3].children[0].innerText = 'Races';
+navTabs.children[1].insertAdjacentHTML('afterend','<li class="nav-item"><a class="nav-link" id="constructors-tab" data-toggle="tab" href="#constructors" role="tab" aria-controls="constructors" aria-selected="false">Constructors Standings</a></li>');
 
-document.getElementsByClassName('tab-content')[0].insertAdjacentHTML("beforeend",'<div id="constructors" class="tab-pane fade" role="tabpanel" aria-labelledby="constructors-tab"><div class="table-responsive entrant-table-max-height"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSNOpDWrmAYiYxjk5xLScmNajzkKcUoq9Qfz6Nazg1QaJXzLgaN2EyMZUWTXH94GA/pubhtml?gid=706686594&amp;single=true&amp;widget=true&amp;headers=false" class="gsheets-table" style="height: 330px;"></iframe></div></div><div id="sprints" class="tab-pane fade" role="tabpanel" aria-labelledby="sprints-tab"><div class="table-responsive entrant-table-max-height"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSNOpDWrmAYiYxjk5xLScmNajzkKcUoq9Qfz6Nazg1QaJXzLgaN2EyMZUWTXH94GA/pubhtml?gid=790406240&amp;single=true&amp;widget=true&amp;headers=false" class="gsheets-table" style="height: 330px;"></iframe></div></div>');
+var tabela1 = document.getElementsByClassName('tab-content')[0];
+tabela1.children[0].innerHTML = tabela1.children[2].innerHTML; 
+tabela1.children[1].outerHTML = '<div class="tab-pane fade" id="teams" role="tabpanel" aria-labelledby="teams-tab"><div class="table-responsive entrant-table-max-height"><table class="table table-bordered table-striped"><tbody><tr><th>Pos</th><th>Driver</th><th data-toggle="tooltip" title="" data-original-title="Brands Hatch - Indy">XXXX</th><th data-toggle="tooltip" title="" data-original-title="Mugello">XXXX</th><th data-toggle="tooltip" title="" data-original-title="Highlands">XXXX</th><th data-toggle="tooltip" title="" data-original-title="Laguna Seca">XXXX</th><th data-toggle="tooltip" title="" data-original-title="Imola">XXXX</th><th data-toggle="tooltip" title="" data-original-title="Nurburgring - Sprint (GT)">XXXX</th><th data-toggle="tooltip" title="" data-original-title="Vallelunga">XXXX</th><th data-toggle="tooltip" title="" data-original-title="Gothenburg City Race">XXXX</th><th data-toggle="tooltip" title="" data-original-title="asdassd">XXXX</th><th>Total Points</th></tr><tr style=""><td>1</td><td data-toggle="tooltip" title="" data-original-title="wat.">XXX</td><td style="background-color: #ffffff; color: black;">XXX</td><td style="background-color: #ffffff; color: black;">XXX</td><td style="background-color: #ffffff; color: black;">XXX</td><td style="background-color: #ffffff; color: black;">XXX</td><td style="background-color: #ffffff; color: black;">XXX</td><td style="background-color: #ffffff; color: black;">XXX</td><td style="background-color: #ffffff; color: black;">XXX</td><td style="background-color: #ffffff; color: black;">XXX</td><td style="background-color: #ffffff; color: black;">XXX</td><td>XXX</td></tr></tbody></table><div class="championship-teams-key d-inline-block"><span class="badge" style="background-color: #fefebe;">1st</span><span class="badge" style="background-color: #dce0e1;">2nd</span><span class="badge" style="background-color: #ffde9e;">3rd</span><span class="badge" style="background-color: #dffee0;">4th-10th</span><span class="badge" style="background-color: #d0ceff;">&gt;10th</span><span class="badge" style="background-color: #ebcaff;">No Points</span></div></div></div>'
+tabela1.children[2].outerHTML = '<div class="tab-pane fade" id="constructors" role="tabpanel" aria-labelledby="constructors-tab"><div class="table-responsive entrant-table-max-height"><table class="table table-bordered table-striped"><tbody><tr><th>Pos</th><th>Driver</th><th data-toggle="tooltip" title="" data-original-title="Brands Hatch - Indy">XXXX</th><th data-toggle="tooltip" title="" data-original-title="Mugello">XXXX</th><th data-toggle="tooltip" title="" data-original-title="Highlands">XXXX</th><th data-toggle="tooltip" title="" data-original-title="Laguna Seca">XXXX</th><th data-toggle="tooltip" title="" data-original-title="Imola">XXXX</th><th data-toggle="tooltip" title="" data-original-title="Nurburgring - Sprint (GT)">XXXX</th><th data-toggle="tooltip" title="" data-original-title="Vallelunga">XXXX</th><th data-toggle="tooltip" title="" data-original-title="Gothenburg City Race">XXXX</th><th data-toggle="tooltip" title="" data-original-title="asdassd">XXXX</th><th>Total Points</th></tr><tr style=""><td>1</td><td data-toggle="tooltip" title="" data-original-title="wat.">XXX</td><td style="background-color: #ffffff; color: black;">XXX</td><td style="background-color: #ffffff; color: black;">XXX</td><td style="background-color: #ffffff; color: black;">XXX</td><td style="background-color: #ffffff; color: black;">XXX</td><td style="background-color: #ffffff; color: black;">XXX</td><td style="background-color: #ffffff; color: black;">XXX</td><td style="background-color: #ffffff; color: black;">XXX</td><td style="background-color: #ffffff; color: black;">XXX</td><td style="background-color: #ffffff; color: black;">XXX</td><td>XXX</td></tr></tbody></table><div class="championship-constructors-key d-inline-block"><span class="badge" style="background-color: #fefebe;">1st</span><span class="badge" style="background-color: #dce0e1;">2nd</span><span class="badge" style="background-color: #ffde9e;">3rd</span><span class="badge" style="background-color: #dffee0;">4th-10th</span><span class="badge" style="background-color: #d0ceff;">&gt;10th</span><span class="badge" style="background-color: #ebcaff;">No Points</span></div></div></div>'
+tabela1.insertAdjacentHTML('afterend', '<p>Tabelki ręcznie maintainowane przez Fajtka dostępne <a href="https://www.youtube.com/watch?v=C_WEVxxAfs0">tutaj</a></p>')
 </script>
 
 <!-- Non-minified version of both inserts:
@@ -21,7 +25,6 @@ document.getElementsByClassName('tab-content')[0].insertAdjacentHTML("beforeend"
             Test #2
         </a>
     </li>
-
 
     <div id="test" class="tab-pane fade" role="tabpanel" aria-labelledby="test-tab">
         <div  class="table-responsive entrant-table-max-height">
@@ -63,4 +66,91 @@ document.getElementsByClassName('tab-content')[0].insertAdjacentHTML("beforeend"
             </table>
         </div>
     </div>
+
+<div class="tab-pane fade active show" id="overview" role="tabpanel" aria-labelledby="overview-tab">
+    <div class="table-responsive entrant-table-max-height">
+        <table class="table table-bordered table-striped">
+            <tbody><tr>
+                <th>Pos</th>
+                <th>Driver</th>
+                        <th data-toggle="tooltip" title="" data-original-title="Brands Hatch - Indy">
+                                Bran    
+                        </th>
+                        <th data-toggle="tooltip" title="" data-original-title="Mugello">
+                                Muge
+                        </th>
+                        <th data-toggle="tooltip" title="" data-original-title="Highlands">
+                                High
+                        </th>
+                        <th data-toggle="tooltip" title="" data-original-title="Laguna Seca">
+                                Lagu
+                        </th>
+                        <th data-toggle="tooltip" title="" data-original-title="Imola">
+                                Imol
+                        </th>
+                        <th data-toggle="tooltip" title="" data-original-title="Nurburgring - Sprint (GT)">
+                                Nurb
+                        </th>
+                        <th data-toggle="tooltip" title="" data-original-title="Vallelunga">
+                                Vall
+                        </th>
+                        <th data-toggle="tooltip" title="" data-original-title="Gothenburg City Race">
+                                Goth
+                        </th>
+                        <th data-toggle="tooltip" title="" data-original-title="asdassd">
+                            asda
+                        </th>
+                <th>Total Points</th>
+            </tr>
+                    <tr style="">
+                        <td>
+                            1
+                        </td>
+                        <td data-toggle="tooltip" title="" data-original-title="wat.">
+                            WAT
+                        </td>
+                            <td style="background-color: #ffffff; color: black;">
+                                DNS
+                            </td>
+                            <td style="background-color: #ffffff; color: black;">
+                                DNS
+                            </td>
+                            <td style="background-color: #ffffff; color: black;">
+                                DNS
+                            </td>
+                            <td style="background-color: #ffffff; color: black;">
+                                DNS
+                            </td>
+                            <td style="background-color: #ffffff; color: black;">
+                                DNS
+                            </td>
+                            <td style="background-color: #ffffff; color: black;">
+                                DNS
+                            </td>
+                            <td style="background-color: #ffffff; color: black;">
+                                DNS
+                            </td>
+                            <td style="background-color: #ffffff; color: black;">
+                                DNS
+                            </td>
+                            <td style="background-color: #ffffff; color: black;">
+                                DNS
+                            </td>
+                        <td>
+                            10
+                        </td>
+                    </tr>
+        </tbody></table>
+        <div class="championship-overview-key d-inline-block">
+            <span class="badge" style="background-color: #fefebe;">1st</span>
+            <span class="badge" style="background-color: #dce0e1;">2nd</span>
+            <span class="badge" style="background-color: #ffde9e;">3rd</span>
+            <span class="badge" style="background-color: #dffee0;">4th - 10th</span>
+            <span class="badge" style="background-color: #d0ceff;">&gt; 10th</span>
+            <span class="badge" style="background-color: #ebcaff;">No Points</span>            
+        </div>
+    </div>
+</div>
+
+
 -->
